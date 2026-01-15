@@ -1,0 +1,18 @@
+{
+  "tenantId": "pg",
+  "moduleName": "tenant",
+  "assessmentconfig": [
+    {
+      "tenant": "pg.smc",
+      "enabled": true,
+      "financialyear": "2021-22",
+      "isRented": true
+    },
+     {
+      "tenant": "pg.jmc",
+      "enabled": true,
+      "financialyear": "2021-22",
+      "isRented": true
+    }
+  ]
+}
