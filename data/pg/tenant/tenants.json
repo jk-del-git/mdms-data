@@ -44,6 +44,3135 @@
       "contactNumber": "001-2345876"
     },
     {
+      "code": "pg.jammu",
+      "name": "Directorate of Urban Local Bodies, Jammu",
+      "description": "Directorate of Urban Local Bodies, Jammu",
+      "logoId": "https://home.jk.gov.in/sites/default/files/jk-logo.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "ADMIN",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "dulb.jammu@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": false,
+      "city": {
+        "name": "Jammu",
+        "localName": null,
+        "districtCode": "JAMMU",
+        "districtName": "Jammu",
+        "districtTenantCode": "pg.jammu",
+        "blockname": "",
+        "regionName": "Jammu",
+        "ulbGrade": "DIRECTORATE",
+        "longitude": 74.8570,
+        "latitude": 32.7266,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1115",
+        "ddrName": null
+      },
+      "address": "Directorate of Urban Local Bodies, Jammu",
+      "contactNumber": "0191-2550000"
+    },
+    {
+      "code": "pg.kashmir",
+      "name": "Directorate of Urban Local Bodies, Kashmir",
+      "description": "Directorate of Urban Local Bodies, Kashmir",
+      "logoId": "https://home.jk.gov.in/sites/default/files/jk-logo.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "ADMIN",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "dulb.kashmir@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": false,
+      "city": {
+        "name": "Kashmir",
+        "localName": null,
+        "districtCode": "KASHMIR",
+        "districtName": "Kashmir",
+        "districtTenantCode": "pg.kashmir",
+        "blockname": "",
+        "regionName": "Kashmir",
+        "ulbGrade": "DIRECTORATE",
+        "longitude": 74.7973,
+        "latitude": 34.0837,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "DULB-K",
+        "ddrName": null
+      },
+      "address": "Directorate of Urban Local Bodies, Kashmir",
+      "contactNumber": "0194-2450000"
+    },
+    {
+      "code": "pg.akhnoor",
+      "name": "Akhnoor Municipal Committee",
+      "description": "Akhnoor Municipal Committee",
+      "pincode": [
+        181201,
+        181202,
+        181203
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "dulb-jammu@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Akhnoor",
+        "localName": null,
+        "districtCode": "JAMMU",
+        "districtName": "Jammu",
+        "districtTenantCode": "pg.akhnoor",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.5761829,
+        "latitude": 31.3260152,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1015",
+        "ddrName": "DDR A"
+      },
+      "address": "Akhnoor Municipal Committee",
+      "contactNumber": "001-2345875"
+    },
+    {
+      "code": "pg.ghomanhasan",
+      "name": "Gho-Manhasan Municipal Committee",
+      "description": "Gho-Manhasan Municipal Committee",
+      "pincode": [
+        181301,
+        181302,
+        181303
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.ghomanhasan@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Gho-Manhasan",
+        "localName": null,
+        "districtCode": "JAMMU",
+        "districtName": "Jammu",
+        "districtTenantCode": "pg.ghomanhasan",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.995,
+        "latitude": 32.692,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1016",
+        "ddrName": "DDR A"
+      },
+      "address": "Gho-Manhasan Municipal Committee",
+      "contactNumber": "0191-275001"
+    },
+    {
+      "code": "pg.bishnah",
+      "name": "Bishnah Municipal Committee",
+      "description": "Bishnah Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "dulb-jammu@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Bishnah",
+        "localName": null,
+        "districtCode": "JAMMU",
+        "districtName": "Jammu",
+        "districtTenantCode": "pg.bishnah",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.5761829,
+        "latitude": 31.3260152,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1013",
+        "ddrName": "DDR A"
+      },
+      "address": "Bishnah Municipal Committee",
+      "contactNumber": "001-2345874"
+    },
+    {
+      "code": "pg.arnia",
+      "name": "Arnia Municipal Committee",
+      "description": "Arnia Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.arnia@jk.gov.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Arnia",
+        "localName": null,
+        "districtCode": "JAMMU",
+        "districtName": "Jammu",
+        "districtTenantCode": "pg.arnia",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.7996,
+        "latitude": 32.5332,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2003",
+        "ddrName": "DDR A"
+      },
+      "address": "Arnia Municipal Committee",
+      "contactNumber": "01923-240999"
+    },
+    {
+      "code": "pg.rspura",
+      "name": "R.S. Pura Municipal Committee",
+      "description": "R.S. Pura Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.rspura@jk.gov.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "R.S. Pura",
+        "localName": null,
+        "districtCode": "JAMMU",
+        "districtName": "Jammu",
+        "districtTenantCode": "pg.rspura",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.7329,
+        "latitude": 32.6098,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2004",
+        "ddrName": "DDR A"
+      },
+      "address": "R.S. Pura Municipal Committee",
+      "contactNumber": "01923-238111"
+    },
+    {
+      "code": "pg.khour",
+      "name": "Khour Municipal Committee",
+      "description": "Khour Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.khour@jk.gov.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Khour",
+        "localName": null,
+        "districtCode": "JAMMU",
+        "districtName": "Jammu",
+        "districtTenantCode": "pg.khour",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.8562,
+        "latitude": 32.8001,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2005",
+        "ddrName": "DDR A"
+      },
+      "address": "Khour Municipal Committee",
+      "contactNumber": "01924-255321"
+    },
+    {
+      "code": "pg.jourian",
+      "name": "Jourian Municipal Committee",
+      "description": "Jourian Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.jourian@jk.gov.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Jourian",
+        "localName": null,
+        "districtCode": "JAMMU",
+        "districtName": "Jammu",
+        "districtTenantCode": "pg.jourian",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.8410,
+        "latitude": 32.8346,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2006",
+        "ddrName": "DDR A"
+      },
+      "address": "Jourian Municipal Committee",
+      "contactNumber": "01924-259001"
+    },
+    {
+      "code": "pg.samba",
+      "name": "Samba Municipal Council",
+      "description": "Samba Municipal Council",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.samba@jk.gov.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Samba",
+        "localName": null,
+        "districtCode": "SAMBA",
+        "districtName": "Samba",
+        "districtTenantCode": "pg.samba",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPAL_COUNCIL",
+        "longitude": 75.1196,
+        "latitude": 32.5619,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2007",
+        "ddrName": "DDR A"
+      },
+      "address": "Samba Municipal Council",
+      "contactNumber": "01923-243210"
+    },
+    {
+      "code": "pg.vijaypur",
+      "name": "Vijaypur Municipal Committee",
+      "description": "Vijaypur Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.vijaypur@jk.gov.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Vijaypur",
+        "localName": null,
+        "districtCode": "SAMBA",
+        "districtName": "Samba",
+        "districtTenantCode": "pg.vijaypur",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.1603,
+        "latitude": 32.5807,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2008",
+        "ddrName": "DDR A"
+      },
+      "address": "Vijaypur Municipal Committee",
+      "contactNumber": "01923-241987"
+    },
+    {
+      "code": "pg.baribrahmana",
+      "name": "Bari Brahmana Municipal Committee",
+      "description": "Bari Brahmana Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.baribrahmana@jk.gov.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Bari Brahmana",
+        "localName": null,
+        "districtCode": "SAMBA",
+        "districtName": "Samba",
+        "districtTenantCode": "pg.baribrahmana",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.1168,
+        "latitude": 32.5541,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2009",
+        "ddrName": "DDR A"
+      },
+      "address": "Bari Brahmana Municipal Committee",
+      "contactNumber": "01923-240456"
+    },
+    {
+      "code": "pg.ramgarh",
+      "name": "Ramgarh Municipal Committee",
+      "description": "Ramgarh Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.ramgarh@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Ramgarh",
+        "localName": null,
+        "districtCode": "SAMBA",
+        "districtName": "Samba",
+        "districtTenantCode": "pg.ramgarh",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.0481,
+        "latitude": 32.5046,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2010",
+        "ddrName": "DDR A"
+      },
+      "address": "Ramgarh Municipal Committee",
+      "contactNumber": "01923-239001"
+    },
+    {
+      "code": "pg.hiranagar",
+      "name": "Hiranagar Municipal Committee",
+      "description": "Hiranagar Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.hiranagar@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Hiranagar",
+        "localName": null,
+        "districtCode": "KATHUA",
+        "districtName": "Kathua",
+        "districtTenantCode": "pg.hiranagar",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.2753,
+        "latitude": 32.4558,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2011",
+        "ddrName": "DDR A"
+      },
+      "address": "Hiranagar Municipal Committee",
+      "contactNumber": "01922-256001"
+    },
+    {
+      "code": "pg.kathua",
+      "name": "Kathua Municipal Council",
+      "description": "Kathua Municipal Council",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.kathua@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Kathua",
+        "localName": null,
+        "districtCode": "KATHUA",
+        "districtName": "Kathua",
+        "districtTenantCode": "pg.kathua",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPAL_COUNCIL",
+        "longitude": 75.5162,
+        "latitude": 32.3816,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2012",
+        "ddrName": "DDR A"
+      },
+      "address": "Kathua Municipal Council",
+      "contactNumber": "01922-234567"
+    },
+    {
+      "code": "pg.basholi",
+      "name": "Basholi Municipal Committee",
+      "description": "Basholi Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.basholi@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Basholi",
+        "localName": null,
+        "districtCode": "KATHUA",
+        "districtName": "Kathua",
+        "districtTenantCode": "pg.basholi",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.7504,
+        "latitude": 32.5112,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2013",
+        "ddrName": "DDR A"
+      },
+      "address": "Basholi Municipal Committee",
+      "contactNumber": "01921-240111"
+    },
+    {
+      "code": "pg.lakhanpur",
+      "name": "Lakhanpur Municipal Committee",
+      "description": "Lakhanpur Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.lakhanpur@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Lakhanpur",
+        "localName": null,
+        "districtCode": "KATHUA",
+        "districtName": "Kathua",
+        "districtTenantCode": "pg.lakhanpur",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.5991,
+        "latitude": 32.3474,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2014",
+        "ddrName": "DDR A"
+      },
+      "address": "Lakhanpur Municipal Committee",
+      "contactNumber": "01922-231234"
+    },
+    {
+      "code": "pg.billawar",
+      "name": "Billawar Municipal Committee",
+      "description": "Billawar Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.billawar@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Billawar",
+        "localName": null,
+        "districtCode": "KATHUA",
+        "districtName": "Kathua",
+        "districtTenantCode": "pg.billawar",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.6042,
+        "latitude": 32.6121,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2015",
+        "ddrName": "DDR A"
+      },
+      "address": "Billawar Municipal Committee",
+      "contactNumber": "01921-242101"
+    },
+    {
+      "code": "pg.parole",
+      "name": "Parole Municipal Committee",
+      "description": "Parole Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.parole@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Parole",
+        "localName": null,
+        "districtCode": "KATHUA",
+        "districtName": "Kathua",
+        "districtTenantCode": "pg.parole",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.4893,
+        "latitude": 32.4527,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2016",
+        "ddrName": "DDR A"
+      },
+      "address": "Parole Municipal Committee",
+      "contactNumber": "01922-235678"
+    },
+    {
+      "code": "pg.rajouri",
+      "name": "Rajouri Municipal Council",
+      "description": "Rajouri Municipal Council",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.rajouri@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Rajouri",
+        "localName": null,
+        "districtCode": "RAJOURI",
+        "districtName": "Rajouri",
+        "districtTenantCode": "pg.rajouri",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPAL_COUNCIL",
+        "longitude": 74.3082,
+        "latitude": 33.3763,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2017",
+        "ddrName": "DDR A"
+      },
+      "address": "Rajouri Municipal Council",
+      "contactNumber": "01962-263001"
+    },
+    {
+      "code": "pg.sunderbani",
+      "name": "Sunderbani Municipal Committee",
+      "description": "Sunderbani Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.sunderbani@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Sunderbani",
+        "localName": null,
+        "districtCode": "RAJOURI",
+        "districtName": "Rajouri",
+        "districtTenantCode": "pg.sunderbani",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.4857,
+        "latitude": 33.2578,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2018",
+        "ddrName": "DDR A"
+      },
+      "address": "Sunderbani Municipal Committee",
+      "contactNumber": "01962-271234"
+    },
+    {
+      "code": "pg.kalakote",
+      "name": "Kalakote Municipal Committee",
+      "description": "Kalakote Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.kalakote@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Kalakote",
+        "localName": null,
+        "districtCode": "RAJOURI",
+        "districtName": "Rajouri",
+        "districtTenantCode": "pg.kalakote",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.3975,
+        "latitude": 33.2161,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2019",
+        "ddrName": "DDR A"
+      },
+      "address": "Kalakote Municipal Committee",
+      "contactNumber": "01962-268901"
+    },
+    {
+      "code": "pg.nowshera",
+      "name": "Nowshera Municipal Committee",
+      "description": "Nowshera Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.nowshera@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Nowshera",
+        "localName": null,
+        "districtCode": "RAJOURI",
+        "districtName": "Rajouri",
+        "districtTenantCode": "pg.nowshera",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.1986,
+        "latitude": 33.1459,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2020",
+        "ddrName": "DDR A"
+      },
+      "address": "Nowshera Municipal Committee",
+      "contactNumber": "01962-264321"
+    },
+    {
+      "code": "pg.thanamandi",
+      "name": "Thanamandi Municipal Committee",
+      "description": "Thanamandi Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.thanamandi@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Thanamandi",
+        "localName": null,
+        "districtCode": "RAJOURI",
+        "districtName": "Rajouri",
+        "districtTenantCode": "pg.thanamandi",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.0369,
+        "latitude": 33.1076,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2021",
+        "ddrName": "DDR A"
+      },
+      "address": "Thanamandi Municipal Committee",
+      "contactNumber": "01962-267890"
+    },
+    {
+      "code": "pg.kishtwar",
+      "name": "Kishtwar Municipal Council",
+      "description": "Kishtwar Municipal Council",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.kishtwar@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Kishtwar",
+        "localName": null,
+        "districtCode": "KISHTWAR",
+        "districtName": "Kishtwar",
+        "districtTenantCode": "pg.kishtwar",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPAL_COUNCIL",
+        "longitude": 75.7701,
+        "latitude": 33.3137,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2022",
+        "ddrName": "DDR A"
+      },
+      "address": "Kishtwar Municipal Council",
+      "contactNumber": "01995-259001"
+    },
+    {
+      "code": "pg.udhampur",
+      "name": "Udhampur Municipal Council",
+      "description": "Udhampur Municipal Council",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.udhampur@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Udhampur",
+        "localName": null,
+        "districtCode": "UDHAMPUR",
+        "districtName": "Udhampur",
+        "districtTenantCode": "pg.udhampur",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPAL_COUNCIL",
+        "longitude": 75.1311,
+        "latitude": 32.9246,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2023",
+        "ddrName": "DDR A"
+      },
+      "address": "Udhampur Municipal Council",
+      "contactNumber": "01992-270001"
+    },
+    {
+      "code": "pg.chenani",
+      "name": "Chenani Municipal Committee",
+      "description": "Chenani Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.chenani@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Chenani",
+        "localName": null,
+        "districtCode": "UDHAMPUR",
+        "districtName": "Udhampur",
+        "districtTenantCode": "pg.chenani",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.3043,
+        "latitude": 32.8954,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2024",
+        "ddrName": "DDR A"
+      },
+      "address": "Chenani Municipal Committee",
+      "contactNumber": "01992-272345"
+    },
+    {
+      "code": "pg.ramnagar",
+      "name": "Ramnagar Municipal Committee",
+      "description": "Ramnagar Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.ramnagar@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Ramnagar",
+        "localName": null,
+        "districtCode": "UDHAMPUR",
+        "districtName": "Udhampur",
+        "districtTenantCode": "pg.ramnagar",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.2078,
+        "latitude": 32.8083,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2025",
+        "ddrName": "DDR A"
+      },
+      "address": "Ramnagar Municipal Committee",
+      "contactNumber": "01992-268901"
+    },
+    {
+      "code": "pg.ramnagar",
+      "name": "Ramnagar Municipal Committee",
+      "description": "Ramnagar Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.ramnagar@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Ramnagar",
+        "localName": null,
+        "districtCode": "UDHAMPUR",
+        "districtName": "Udhampur",
+        "districtTenantCode": "pg.ramnagar",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.2078,
+        "latitude": 32.8083,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2025",
+        "ddrName": "DDR A"
+      },
+      "address": "Ramnagar Municipal Committee",
+      "contactNumber": "01992-268901"
+    },
+    {
+      "code": "pg.reasi",
+      "name": "Reasi Municipal Council",
+      "description": "Reasi Municipal Council",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.reasi@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Reasi",
+        "localName": null,
+        "districtCode": "REASI",
+        "districtName": "Reasi",
+        "districtTenantCode": "pg.reasi",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPAL_COUNCIL",
+        "longitude": 74.8310,
+        "latitude": 33.0812,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2027",
+        "ddrName": "DDR A"
+      },
+      "address": "Reasi Municipal Council",
+      "contactNumber": "01991-236789"
+    },
+    {
+      "code": "pg.doda",
+      "name": "Doda Municipal Council",
+      "description": "Doda Municipal Council",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.doda@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Doda",
+        "localName": null,
+        "districtCode": "DODA",
+        "districtName": "Doda",
+        "districtTenantCode": "pg.doda",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPAL_COUNCIL",
+        "longitude": 75.5535,
+        "latitude": 33.1341,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2028",
+        "ddrName": "DDR A"
+      },
+      "address": "Doda Municipal Council",
+      "contactNumber": "01996-233001"
+    },
+    {
+      "code": "pg.thathri",
+      "name": "Thathri Municipal Committee",
+      "description": "Thathri Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.thathri@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Thathri",
+        "localName": null,
+        "districtCode": "DODA",
+        "districtName": "Doda",
+        "districtTenantCode": "pg.thathri",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.5467,
+        "latitude": 33.1449,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2029",
+        "ddrName": "DDR A"
+      },
+      "address": "Thathri Municipal Committee",
+      "contactNumber": "01996-231789"
+    },
+    {
+      "code": "pg.bhaderwah",
+      "name": "Bhaderwah Municipal Committee",
+      "description": "Bhaderwah Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.bhaderwah@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Bhaderwah",
+        "localName": null,
+        "districtCode": "DODA",
+        "districtName": "Doda",
+        "districtTenantCode": "pg.bhaderwah",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.7134,
+        "latitude": 32.9794,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2030",
+        "ddrName": "DDR A"
+      },
+      "address": "Bhaderwah Municipal Committee",
+      "contactNumber": "01996-250456"
+    },
+    {
+      "code": "pg.ramban",
+      "name": "Ramban Municipal Council",
+      "description": "Ramban Municipal Council",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.ramban@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Ramban",
+        "localName": null,
+        "districtCode": "RAMBAN",
+        "districtName": "Ramban",
+        "districtTenantCode": "pg.ramban",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPAL_COUNCIL",
+        "longitude": 75.2447,
+        "latitude": 33.2466,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2031",
+        "ddrName": "DDR A"
+      },
+      "address": "Ramban Municipal Council",
+      "contactNumber": "01998-266001"
+    },
+    {
+      "code": "pg.batote",
+      "name": "Batote Municipal Committee",
+      "description": "Batote Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.batote@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Batote",
+        "localName": null,
+        "districtCode": "RAMBAN",
+        "districtName": "Ramban",
+        "districtTenantCode": "pg.batote",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.3189,
+        "latitude": 33.1117,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2032",
+        "ddrName": "DDR A"
+      },
+      "address": "Batote Municipal Committee",
+      "contactNumber": "01998-268901"
+    },
+    {
+      "code": "pg.banihal",
+      "name": "Banihal Municipal Committee",
+      "description": "Banihal Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.banihal@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Banihal",
+        "localName": null,
+        "districtCode": "RAMBAN",
+        "districtName": "Ramban",
+        "districtTenantCode": "pg.banihal",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.1996,
+        "latitude": 33.4194,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2033",
+        "ddrName": "DDR A"
+      },
+      "address": "Banihal Municipal Committee",
+      "contactNumber": "01998-270123"
+    },
+    {
+      "code": "pg.poonch",
+      "name": "Poonch Municipal Council",
+      "description": "Poonch Municipal Council",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.poonch@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Poonch",
+        "localName": null,
+        "districtCode": "POONCH",
+        "districtName": "Poonch",
+        "districtTenantCode": "pg.poonch",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPAL_COUNCIL",
+        "longitude": 74.0921,
+        "latitude": 33.7745,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2034",
+        "ddrName": "DDR A"
+      },
+      "address": "Poonch Municipal Council",
+      "contactNumber": "01965-251001"
+    },
+    {
+      "code": "pg.surankote",
+      "name": "Surankote Municipal Committee",
+      "description": "Surankote Municipal Committee",
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.surankote@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Surankote",
+        "localName": null,
+        "districtCode": "POONCH",
+        "districtName": "Poonch",
+        "districtTenantCode": "pg.surankote",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.2756,
+        "latitude": 33.6864,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2035",
+        "ddrName": "DDR A"
+      },
+      "address": "Surankote Municipal Committee",
+      "contactNumber": "01965-254321"
+    },
+    {
+      "code": "pg.anantnag",
+      "name": "Anantnag Municipal Council",
+      "description": "Anantnag Municipal Council",
+      "pincode": [
+        192101,
+        192102,
+        192103
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.anantnag@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Anantnag",
+        "localName": null,
+        "districtCode": "ANANTNAG",
+        "districtName": "Anantnag",
+        "districtTenantCode": "pg.anantnag",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPAL_COUNCIL",
+        "longitude": 75.1470,
+        "latitude": 33.7311,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2036",
+        "ddrName": "DDR B"
+      },
+      "address": "Anantnag Municipal Council",
+      "contactNumber": "01932-222001"
+    },
+    {
+      "code": "pg.achabal",
+      "name": "Achabal Municipal Committee",
+      "description": "Achabal Municipal Committee",
+      "pincode": [
+        192201,
+        192202
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.achabal@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Achabal",
+        "localName": null,
+        "districtCode": "ANANTNAG",
+        "districtName": "Anantnag",
+        "districtTenantCode": "pg.achabal",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.2396,
+        "latitude": 33.6965,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2037",
+        "ddrName": "DDR B"
+      },
+      "address": "Achabal Municipal Committee",
+      "contactNumber": "01932-225678"
+    },
+    {
+      "code": "pg.bijbehara",
+      "name": "Bijbehara Municipal Committee",
+      "description": "Bijbehara Municipal Committee",
+      "pincode": [
+        192124,
+        192125
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.bijbehara@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Bijbehara",
+        "localName": null,
+        "districtCode": "ANANTNAG",
+        "districtName": "Anantnag",
+        "districtTenantCode": "pg.bijbehara",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.1073,
+        "latitude": 33.7934,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2038",
+        "ddrName": "DDR B"
+      },
+      "address": "Bijbehara Municipal Committee",
+      "contactNumber": "01932-223456"
+    },
+    {
+      "code": "pg.kokernag",
+      "name": "Kokernag Municipal Committee",
+      "description": "Kokernag Municipal Committee",
+      "pincode": [
+        192202,
+        192203
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.kokernag@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Kokernag",
+        "localName": null,
+        "districtCode": "ANANTNAG",
+        "districtName": "Anantnag",
+        "districtTenantCode": "pg.kokernag",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.3092,
+        "latitude": 33.6447,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2039",
+        "ddrName": "DDR B"
+      },
+      "address": "Kokernag Municipal Committee",
+      "contactNumber": "01932-228901"
+    },
+    {
+      "code": "pg.mattan",
+      "name": "Mattan Municipal Committee",
+      "description": "Mattan Municipal Committee",
+      "pincode": [
+        192101,
+        192102
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.mattan@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Mattan",
+        "localName": null,
+        "districtCode": "ANANTNAG",
+        "districtName": "Anantnag",
+        "districtTenantCode": "pg.mattan",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.1412,
+        "latitude": 33.7069,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2040",
+        "ddrName": "DDR B"
+      },
+      "address": "Mattan Municipal Committee",
+      "contactNumber": "01932-226789"
+    },
+    {
+      "code": "pg.mattan",
+      "name": "Mattan Municipal Committee",
+      "description": "Mattan Municipal Committee",
+      "pincode": [
+        192101,
+        192102
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.mattan@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Mattan",
+        "localName": null,
+        "districtCode": "ANANTNAG",
+        "districtName": "Anantnag",
+        "districtTenantCode": "pg.mattan",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.1412,
+        "latitude": 33.7069,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2040",
+        "ddrName": "DDR B"
+      },
+      "address": "Mattan Municipal Committee",
+      "contactNumber": "01932-226789"
+    },
+    {
+      "code": "pg.qazigund",
+      "name": "Qazigund Municipal Committee",
+      "description": "Qazigund Municipal Committee",
+      "pincode": [
+        192221,
+        192222
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.qazigund@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Qazigund",
+        "localName": null,
+        "districtCode": "ANANTNAG",
+        "districtName": "Anantnag",
+        "districtTenantCode": "pg.qazigund",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.1404,
+        "latitude": 33.6356,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2041",
+        "ddrName": "DDR B"
+      },
+      "address": "Qazigund Municipal Committee",
+      "contactNumber": "01932-229001"
+    },
+    {
+      "code": "pg.seerhamdan",
+      "name": "Seer Hamdan Municipal Committee",
+      "description": "Seer Hamdan Municipal Committee",
+      "pincode": [
+        192124,
+        192125
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.seerhamdan@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Seer Hamdan",
+        "localName": null,
+        "districtCode": "ANANTNAG",
+        "districtName": "Anantnag",
+        "districtTenantCode": "pg.seerhamdan",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.1987,
+        "latitude": 33.7461,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2043",
+        "ddrName": "DDR B"
+      },
+      "address": "Seer Hamdan Municipal Committee",
+      "contactNumber": "01932-224890"
+    },
+    {
+      "code": "pg.dooruveerinag",
+      "name": "Dooru–Veerinag Municipal Committee",
+      "description": "Dooru–Veerinag Municipal Committee",
+      "pincode": [
+        192211,
+        192212
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.dooru@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Dooru–Veerinag",
+        "localName": null,
+        "districtCode": "ANANTNAG",
+        "districtName": "Anantnag",
+        "districtTenantCode": "pg.dooruveerinag",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.1239,
+        "latitude": 33.5794,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2044",
+        "ddrName": "DDR B"
+      },
+      "address": "Dooru–Veerinag Municipal Committee",
+      "contactNumber": "01932-221345"
+    },
+    {
+      "code": "pg.pahalgam",
+      "name": "Pahalgam Municipal Committee",
+      "description": "Pahalgam Municipal Committee",
+      "pincode": [
+        192126,
+        192127
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.pahalgam@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Pahalgam",
+        "localName": null,
+        "districtCode": "ANANTNAG",
+        "districtName": "Anantnag",
+        "districtTenantCode": "pg.pahalgam",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.3185,
+        "latitude": 34.0169,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2045",
+        "ddrName": "DDR B"
+      },
+      "address": "Pahalgam Municipal Committee",
+      "contactNumber": "01936-243001"
+    },
+    {
+      "code": "pg.kulgam",
+      "name": "Kulgam Municipal Council",
+      "description": "Kulgam Municipal Council",
+      "pincode": [
+        192231,
+        192232
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.kulgam@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Kulgam",
+        "localName": null,
+        "districtCode": "KULGAM",
+        "districtName": "Kulgam",
+        "districtTenantCode": "pg.kulgam",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPAL_COUNCIL",
+        "longitude": 75.0196,
+        "latitude": 33.6441,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2046",
+        "ddrName": "DDR B"
+      },
+      "address": "Kulgam Municipal Council",
+      "contactNumber": "01931-252001"
+    },
+    {
+      "code": "pg.kulgam",
+      "name": "Kulgam Municipal Council",
+      "description": "Kulgam Municipal Council",
+      "pincode": [
+        192231,
+        192232
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.kulgam@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Kulgam",
+        "localName": null,
+        "districtCode": "KULGAM",
+        "districtName": "Kulgam",
+        "districtTenantCode": "pg.kulgam",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPAL_COUNCIL",
+        "longitude": 75.0196,
+        "latitude": 33.6441,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2046",
+        "ddrName": "DDR B"
+      },
+      "address": "Kulgam Municipal Council",
+      "contactNumber": "01931-252001"
+    },
+    {
+      "code": "pg.yaripora",
+      "name": "Yaripora Municipal Committee",
+      "description": "Yaripora Municipal Committee",
+      "pincode": [
+        192231,
+        192232
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.yaripora@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Yaripora",
+        "localName": null,
+        "districtCode": "KULGAM",
+        "districtName": "Kulgam",
+        "districtTenantCode": "pg.yaripora",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.0789,
+        "latitude": 33.6412,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2048",
+        "ddrName": "DDR B"
+      },
+      "address": "Yaripora Municipal Committee",
+      "contactNumber": "01931-256789"
+    },
+    {
+      "code": "pg.frisal",
+      "name": "Frisal Municipal Committee",
+      "description": "Frisal Municipal Committee",
+      "pincode": [
+        192231,
+        192232
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.frisal@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Frisal",
+        "localName": null,
+        "districtCode": "KULGAM",
+        "districtName": "Kulgam",
+        "districtTenantCode": "pg.frisal",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 75.0634,
+        "latitude": 33.6219,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2049",
+        "ddrName": "DDR B"
+      },
+      "address": "Frisal Municipal Committee",
+      "contactNumber": "01931-258901"
+    },
+    {
+      "code": "pg.pulwama",
+      "name": "Pulwama Municipal Council",
+      "description": "Pulwama Municipal Council",
+      "pincode": [
+        192301,
+        192302
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.pulwama@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Pulwama",
+        "localName": null,
+        "districtCode": "PULWAMA",
+        "districtName": "Pulwama",
+        "districtTenantCode": "pg.pulwama",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPAL_COUNCIL",
+        "longitude": 74.9200,
+        "latitude": 33.8740,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2050",
+        "ddrName": "DDR B"
+      },
+      "address": "Pulwama Municipal Council",
+      "contactNumber": "01933-240001"
+    },
+    {
+      "code": "pg.pampore",
+      "name": "Pampore Municipal Committee",
+      "description": "Pampore Municipal Committee",
+      "pincode": [
+        192121,
+        192122
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.pampore@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Pampore",
+        "localName": null,
+        "districtCode": "PULWAMA",
+        "districtName": "Pulwama",
+        "districtTenantCode": "pg.pampore",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.9256,
+        "latitude": 33.8785,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2051",
+        "ddrName": "DDR B"
+      },
+      "address": "Pampore Municipal Committee",
+      "contactNumber": "01933-242345"
+    },
+    {
+      "code": "pg.tral",
+      "name": "Tral Municipal Committee",
+      "description": "Tral Municipal Committee",
+      "pincode": [
+        192123,
+        192124
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.tral@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Tral",
+        "localName": null,
+        "districtCode": "PULWAMA",
+        "districtName": "Pulwama",
+        "districtTenantCode": "pg.tral",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.8463,
+        "latitude": 33.9284,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2052",
+        "ddrName": "DDR B"
+      },
+      "address": "Tral Municipal Committee",
+      "contactNumber": "01933-244567"
+    },
+    {
+      "code": "pg.khrew",
+      "name": "Khrew Municipal Committee",
+      "description": "Khrew Municipal Committee",
+      "pincode": [
+        191103,
+        191104
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.khrew@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Khrew",
+        "localName": null,
+        "districtCode": "PULWAMA",
+        "districtName": "Pulwama",
+        "districtTenantCode": "pg.khrew",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.9947,
+        "latitude": 33.9658,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2053",
+        "ddrName": "DDR B"
+      },
+      "address": "Khrew Municipal Committee",
+      "contactNumber": "01933-246001"
+    },
+    {
+      "code": "pg.awantipora",
+      "name": "Awantipora Municipal Committee",
+      "description": "Awantipora Municipal Committee",
+      "pincode": [
+        192122,
+        192123
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.awantipora@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Awantipora",
+        "localName": null,
+        "districtCode": "PULWAMA",
+        "districtName": "Pulwama",
+        "districtTenantCode": "pg.awantipora",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.9123,
+        "latitude": 33.9194,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2054",
+        "ddrName": "DDR B"
+      },
+      "address": "Awantipora Municipal Committee",
+      "contactNumber": "01933-248901"
+    },
+    {
+      "code": "pg.shopian",
+      "name": "Shopian Municipal Committee",
+      "description": "Shopian Municipal Committee",
+      "pincode": [
+        192303,
+        192304
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.shopian@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Shopian",
+        "localName": null,
+        "districtCode": "SHOPIAN",
+        "districtName": "Shopian",
+        "districtTenantCode": "pg.shopian",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "NOTIFIED_AREA_COUNCIL",
+        "longitude": 74.8336,
+        "latitude": 33.7200,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2055",
+        "ddrName": "DDR B"
+      },
+      "address": "Shopian Municipal Committee",
+      "contactNumber": "01933-250123"
+    },
+    {
+      "code": "pg.ganderbal",
+      "name": "Ganderbal Municipal Council",
+      "description": "Ganderbal Municipal Council",
+      "pincode": [
+        191201,
+        191202
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.ganderbal@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Ganderbal",
+        "localName": null,
+        "districtCode": "GANDERBAL",
+        "districtName": "Ganderbal",
+        "districtTenantCode": "pg.ganderbal",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPAL_COUNCIL",
+        "longitude": 74.7815,
+        "latitude": 34.2266,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2056",
+        "ddrName": "DDR B"
+      },
+      "address": "Ganderbal Municipal Council",
+      "contactNumber": "0194-241200"
+    },
+    {
+      "code": "pg.budgam",
+      "name": "Budgam Municipal Council",
+      "description": "Budgam Municipal Council",
+      "pincode": [
+        191111,
+        191112
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.budgam@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Budgam",
+        "localName": null,
+        "districtCode": "BUDGAM",
+        "districtName": "Budgam",
+        "districtTenantCode": "pg.budgam",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPAL_COUNCIL",
+        "longitude": 74.7890,
+        "latitude": 34.0157,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2057",
+        "ddrName": "DDR B"
+      },
+      "address": "Budgam Municipal Council",
+      "contactNumber": "01951-255001"
+    },
+    {
+      "code": "pg.khansahib",
+      "name": "Khansahib Municipal Committee",
+      "description": "Khansahib Municipal Committee",
+      "pincode": [
+        191112,
+        191113
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.khansahib@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Khansahib",
+        "localName": null,
+        "districtCode": "BUDGAM",
+        "districtName": "Budgam",
+        "districtTenantCode": "pg.khansahib",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.6798,
+        "latitude": 33.8569,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2058",
+        "ddrName": "DDR B"
+      },
+      "address": "Khansahib Municipal Committee",
+      "contactNumber": "01951-258901"
+    },
+    {
+      "code": "pg.khansahib",
+      "name": "Khansahib Municipal Committee",
+      "description": "Khansahib Municipal Committee",
+      "pincode": [
+        191112,
+        191113
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.khansahib@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Khansahib",
+        "localName": null,
+        "districtCode": "BUDGAM",
+        "districtName": "Budgam",
+        "districtTenantCode": "pg.khansahib",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.6798,
+        "latitude": 33.8569,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2058",
+        "ddrName": "DDR B"
+      },
+      "address": "Khansahib Municipal Committee",
+      "contactNumber": "01951-258901"
+    },
+    {
+      "code": "pg.beerwah",
+      "name": "Beerwah Municipal Committee",
+      "description": "Beerwah Municipal Committee",
+      "pincode": [
+        193401,
+        193402
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.beerwah@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Beerwah",
+        "localName": null,
+        "districtCode": "BUDGAM",
+        "districtName": "Budgam",
+        "districtTenantCode": "pg.beerwah",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.6385,
+        "latitude": 33.8457,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2060",
+        "ddrName": "DDR B"
+      },
+      "address": "Beerwah Municipal Committee",
+      "contactNumber": "01951-264321"
+    },
+    {
+      "code": "pg.chadoora",
+      "name": "Chadoora Municipal Committee",
+      "description": "Chadoora Municipal Committee",
+      "pincode": [
+        191113,
+        191114
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.chadoora@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Chadoora",
+        "localName": null,
+        "districtCode": "BUDGAM",
+        "districtName": "Budgam",
+        "districtTenantCode": "pg.chadoora",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.7634,
+        "latitude": 33.9001,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2061",
+        "ddrName": "DDR B"
+      },
+      "address": "Chadoora Municipal Committee",
+      "contactNumber": "01951-266789"
+    },
+    {
+      "code": "pg.chariesharief",
+      "name": "Char-e-Sharief Municipal Committee",
+      "description": "Char-e-Sharief Municipal Committee",
+      "pincode": [
+        191112,
+        191113
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.chariesharief@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Char-e-Sharief",
+        "localName": null,
+        "districtCode": "BUDGAM",
+        "districtName": "Budgam",
+        "districtTenantCode": "pg.chariesharief",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.6581,
+        "latitude": 33.8643,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2062",
+        "ddrName": "DDR B"
+      },
+      "address": "Char-e-Sharief Municipal Committee",
+      "contactNumber": "01951-268901"
+    },
+    {
+      "code": "pg.baramulla",
+      "name": "Baramulla Municipal Council",
+      "description": "Baramulla Municipal Council",
+      "pincode": [
+        193101,
+        193102
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.baramulla@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Baramulla",
+        "localName": null,
+        "districtCode": "BARAMULLA",
+        "districtName": "Baramulla",
+        "districtTenantCode": "pg.baramulla",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPAL_COUNCIL",
+        "longitude": 74.3489,
+        "latitude": 34.2090,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2063",
+        "ddrName": "DDR B"
+      },
+      "address": "Baramulla Municipal Council",
+      "contactNumber": "01952-232001"
+    },
+    {
+      "code": "pg.sopore",
+      "name": "Sopore Municipal Council",
+      "description": "Sopore Municipal Council",
+      "pincode": [
+        193201,
+        193202
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.sopore@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Sopore",
+        "localName": null,
+        "districtCode": "BARAMULLA",
+        "districtName": "Baramulla",
+        "districtTenantCode": "pg.sopore",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPAL_COUNCIL",
+        "longitude": 74.4700,
+        "latitude": 34.2990,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2064",
+        "ddrName": "DDR B"
+      },
+      "address": "Sopore Municipal Council",
+      "contactNumber": "01952-234567"
+    },
+    {
+      "code": "pg.sopore",
+      "name": "Sopore Municipal Council",
+      "description": "Sopore Municipal Council",
+      "pincode": [
+        193201,
+        193202
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.sopore@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Sopore",
+        "localName": null,
+        "districtCode": "BARAMULLA",
+        "districtName": "Baramulla",
+        "districtTenantCode": "pg.sopore",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPAL_COUNCIL",
+        "longitude": 74.4700,
+        "latitude": 34.2990,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2064",
+        "ddrName": "DDR B"
+      },
+      "address": "Sopore Municipal Council",
+      "contactNumber": "01952-234567"
+    },
+    {
+      "code": "pg.pattan",
+      "name": "Pattan Municipal Committee",
+      "description": "Pattan Municipal Committee",
+      "pincode": [
+        193121,
+        193122
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.pattan@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Pattan",
+        "localName": null,
+        "districtCode": "BARAMULLA",
+        "districtName": "Baramulla",
+        "districtTenantCode": "pg.pattan",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "NOTIFIED_AREA_COUNCIL",
+        "longitude": 74.5617,
+        "latitude": 34.1569,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2066",
+        "ddrName": "DDR B"
+      },
+      "address": "Pattan Municipal Committee",
+      "contactNumber": "01952-238901"
+    },
+    {
+      "code": "pg.uri",
+      "name": "Uri Municipal Committee",
+      "description": "Uri Municipal Committee",
+      "pincode": [
+        193123,
+        193124
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.uri@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Uri",
+        "localName": null,
+        "districtCode": "BARAMULLA",
+        "districtName": "Baramulla",
+        "districtTenantCode": "pg.uri",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "NOTIFIED_AREA_COUNCIL",
+        "longitude": 74.3096,
+        "latitude": 34.0806,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2067",
+        "ddrName": "DDR B"
+      },
+      "address": "Uri Municipal Committee",
+      "contactNumber": "01952-240001"
+    },
+    {
+      "code": "pg.watergam",
+      "name": "Watergam Municipal Committee",
+      "description": "Watergam Municipal Committee",
+      "pincode": [
+        193401,
+        193402
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.watergam@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Watergam",
+        "localName": null,
+        "districtCode": "BARAMULLA",
+        "districtName": "Baramulla",
+        "districtTenantCode": "pg.watergam",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "NOTIFIED_AREA_COUNCIL",
+        "longitude": 74.5062,
+        "latitude": 34.2958,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2068",
+        "ddrName": "DDR B"
+      },
+      "address": "Watergam Municipal Committee",
+      "contactNumber": "01952-242345"
+    },
+    {
+      "code": "pg.gulmargtangmarg",
+      "name": "Gulmarg–Tangmarg Municipal Committee",
+      "description": "Gulmarg–Tangmarg Municipal Committee",
+      "pincode": [
+        193402,
+        193403
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.gulmarg@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Gulmarg–Tangmarg",
+        "localName": null,
+        "districtCode": "BARAMULLA",
+        "districtName": "Baramulla",
+        "districtTenantCode": "pg.gulmargtangmarg",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "NOTIFIED_AREA_COUNCIL",
+        "longitude": 74.3805,
+        "latitude": 34.0484,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2069",
+        "ddrName": "DDR B"
+      },
+      "address": "Gulmarg–Tangmarg Municipal Committee",
+      "contactNumber": "01954-254001"
+    },
+    {
+      "code": "pg.bandipora",
+      "name": "Bandipora Municipal Council",
+      "description": "Bandipora Municipal Council",
+      "pincode": [
+        193502,
+        193503
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.bandipora@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Bandipora",
+        "localName": null,
+        "districtCode": "BANDIPORA",
+        "districtName": "Bandipora",
+        "districtTenantCode": "pg.bandipora",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPAL_COUNCIL",
+        "longitude": 74.6501,
+        "latitude": 34.4173,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2070",
+        "ddrName": "DDR B"
+      },
+      "address": "Bandipora Municipal Council",
+      "contactNumber": "01957-225001"
+    },
+    {
+      "code": "pg.sumbal",
+      "name": "Sumbal Municipal Committee",
+      "description": "Sumbal Municipal Committee",
+      "pincode": [
+        193502,
+        193503
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.sumbal@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Sumbal",
+        "localName": null,
+        "districtCode": "BANDIPORA",
+        "districtName": "Bandipora",
+        "districtTenantCode": "pg.sumbal",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.6452,
+        "latitude": 34.2308,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2071",
+        "ddrName": "DDR B"
+      },
+      "address": "Sumbal Municipal Committee",
+      "contactNumber": "01957-227001"
+    },
+    {
+      "code": "pg.hajin",
+      "name": "Hajin Municipal Committee",
+      "description": "Hajin Municipal Committee",
+      "pincode": [
+        193502,
+        193503
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.hajin@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Hajin",
+        "localName": null,
+        "districtCode": "BANDIPORA",
+        "districtName": "Bandipora",
+        "districtTenantCode": "pg.hajin",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.6179,
+        "latitude": 34.2986,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2072",
+        "ddrName": "DDR B"
+      },
+      "address": "Hajin Municipal Committee",
+      "contactNumber": "01957-229345"
+    },
+    {
+      "code": "pg.kupwara",
+      "name": "Kupwara Municipal Council",
+      "description": "Kupwara Municipal Council",
+      "pincode": [
+        193222,
+        193223
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.kupwara@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Kupwara",
+        "localName": null,
+        "districtCode": "KUPWARA",
+        "districtName": "Kupwara",
+        "districtTenantCode": "pg.kupwara",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPAL_COUNCIL",
+        "longitude": 74.2651,
+        "latitude": 34.5264,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2073",
+        "ddrName": "DDR B"
+      },
+      "address": "Kupwara Municipal Council",
+      "contactNumber": "01955-252001"
+    },
+    {
+      "code": "pg.handwara",
+      "name": "Handwara Municipal Committee",
+      "description": "Handwara Municipal Committee",
+      "pincode": [
+        193221,
+        193222
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.handwara@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Handwara",
+        "localName": null,
+        "districtCode": "KUPWARA",
+        "districtName": "Kupwara",
+        "districtTenantCode": "pg.handwara",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.2800,
+        "latitude": 34.3997,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2074",
+        "ddrName": "DDR B"
+      },
+      "address": "Handwara Municipal Committee",
+      "contactNumber": "01955-254321"
+    },
+    {
+      "code": "pg.langate",
+      "name": "Langate Municipal Committee",
+      "description": "Langate Municipal Committee",
+      "pincode": [
+        193221,
+        193222
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.langate@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Langate",
+        "localName": null,
+        "districtCode": "KUPWARA",
+        "districtName": "Kupwara",
+        "districtTenantCode": "pg.langate",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.2504,
+        "latitude": 34.4532,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2075",
+        "ddrName": "DDR B"
+      },
+      "address": "Langate Municipal Committee",
+      "contactNumber": "01955-256789"
+    },
+    {
+      "code": "pg.dulbjammu",
+      "name": "Directorate of Urban Local Bodies, Jammu",
+      "description": "Directorate of Urban Local Bodies, Jammu",
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "STATE",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "dulb.jammu@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "DULB Jammu",
+        "localName": null,
+        "districtCode": "JAMMU",
+        "districtName": "Jammu",
+        "districtTenantCode": "pg.dulbjammu",
+        "blockname": "",
+        "regionName": "JAMMU",
+        "ulbGrade": "DIRECTORATE",
+        "longitude": 75.5762,
+        "latitude": 31.3260,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2076",
+        "ddrName": "DDR A"
+      },
+      "address": "Directorate of Urban Local Bodies, Jammu",
+      "contactNumber": "0191-257001"
+    },
+    {
+      "code": "pg.dulbkashmir",
+      "name": "Directorate of Urban Local Bodies, Kashmir",
+      "description": "Directorate of Urban Local Bodies, Kashmir",
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "STATE",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "dulb.kashmir@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "DULB Kashmir",
+        "localName": null,
+        "districtCode": "SRINAGAR",
+        "districtName": "Srinagar",
+        "districtTenantCode": "pg.dulbkashmir",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "DIRECTORATE",
+        "longitude": 74.7973,
+        "latitude": 34.0837,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2077",
+        "ddrName": "DDR B"
+      },
+      "address": "Directorate of Urban Local Bodies, Kashmir",
+      "contactNumber": "0194-245001"
+    },
+    {
       "code": "pg.smc",
       "name": "Srinagar Municipal Corporation",
       "description": null,
