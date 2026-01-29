@@ -7,723 +7,650 @@
       "code": "PGR",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }
+        { "code": "pg.jmc" }, { "code": "pg.smc" },
+        { "code": "pg.akhnoor" }, { "code": "pg.ghomanhasan" }, { "code": "pg.bishnah" }, { "code": "pg.arnia" },
+        { "code": "pg.rspura" }, { "code": "pg.khour" }, { "code": "pg.jourian" },
+        { "code": "pg.samba" }, { "code": "pg.vijaypur" }, { "code": "pg.baribrahmana" }, { "code": "pg.ramgarh" },
+        { "code": "pg.hiranagar" }, { "code": "pg.kathua" }, { "code": "pg.basholi" }, { "code": "pg.lakhanpur" }, { "code": "pg.billawar" }, { "code": "pg.parole" },
+        { "code": "pg.rajouri" }, { "code": "pg.sunderbani" }, { "code": "pg.kalakote" }, { "code": "pg.nowshera" }, { "code": "pg.thanamandi" },
+        { "code": "pg.kishtwar" },
+        { "code": "pg.udhampur" }, { "code": "pg.chenani" }, { "code": "pg.ramnagar" },
+        { "code": "pg.katra" }, { "code": "pg.reasi" },
+        { "code": "pg.doda" }, { "code": "pg.thathri" }, { "code": "pg.bhaderwah" },
+        { "code": "pg.ramban" }, { "code": "pg.batote" }, { "code": "pg.banihal" },
+        { "code": "pg.poonch" }, { "code": "pg.surankote" },
+        { "code": "pg.anantnag" }, { "code": "pg.achabal" }, { "code": "pg.bijbehara" }, { "code": "pg.kokernag" },
+        { "code": "pg.mattan" }, { "code": "pg.qazigund" }, { "code": "pg.aishmuquam" }, { "code": "pg.seerhamdan" },
+        { "code": "pg.dooruveerinag" }, { "code": "pg.pahalgam" },
+        { "code": "pg.kulgam" }, { "code": "pg.devsar" }, { "code": "pg.yaripora" }, { "code": "pg.frisal" },
+        { "code": "pg.pulwama" }, { "code": "pg.pampore" }, { "code": "pg.tral" }, { "code": "pg.khrew" }, { "code": "pg.awantipora" },
+        { "code": "pg.shopian" },
+        { "code": "pg.ganderbal" },
+        { "code": "pg.budgam" }, { "code": "pg.khansahib" }, { "code": "pg.magam" }, { "code": "pg.beerwah" },
+        { "code": "pg.chadoora" }, { "code": "pg.chariesharief" },
+        { "code": "pg.baramulla" }, { "code": "pg.sopore" }, { "code": "pg.kunzer" }, { "code": "pg.pattan" },
+        { "code": "pg.uri" }, { "code": "pg.watergam" }, { "code": "pg.gulmargtangmarg" },
+        { "code": "pg.bandipora" }, { "code": "pg.sumbal" }, { "code": "pg.hajin" },
+        { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" }
       ]
     },
+
     {
       "module": "PT",
       "code": "PT",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
-    {
-      "module": "QuickPayLinks",
-      "code": "QuickPayLinks",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }
+        { "code": "pg.jmc" }, { "code": "pg.smc" },
+        { "code": "pg.akhnoor" }, { "code": "pg.ghomanhasan" }, { "code": "pg.bishnah" }, { "code": "pg.arnia" },
+        { "code": "pg.rspura" }, { "code": "pg.khour" }, { "code": "pg.jourian" },
+        { "code": "pg.samba" }, { "code": "pg.vijaypur" }, { "code": "pg.baribrahmana" }, { "code": "pg.ramgarh" },
+        { "code": "pg.hiranagar" }, { "code": "pg.kathua" }, { "code": "pg.basholi" }, { "code": "pg.lakhanpur" }, { "code": "pg.billawar" }, { "code": "pg.parole" },
+        { "code": "pg.rajouri" }, { "code": "pg.sunderbani" }, { "code": "pg.kalakote" }, { "code": "pg.nowshera" }, { "code": "pg.thanamandi" },
+        { "code": "pg.kishtwar" },
+        { "code": "pg.udhampur" }, { "code": "pg.chenani" }, { "code": "pg.ramnagar" },
+        { "code": "pg.katra" }, { "code": "pg.reasi" },
+        { "code": "pg.doda" }, { "code": "pg.thathri" }, { "code": "pg.bhaderwah" },
+        { "code": "pg.ramban" }, { "code": "pg.batote" }, { "code": "pg.banihal" },
+        { "code": "pg.poonch" }, { "code": "pg.surankote" },
+        { "code": "pg.anantnag" }, { "code": "pg.achabal" }, { "code": "pg.bijbehara" }, { "code": "pg.kokernag" },
+        { "code": "pg.mattan" }, { "code": "pg.qazigund" }, { "code": "pg.aishmuquam" }, { "code": "pg.seerhamdan" },
+        { "code": "pg.dooruveerinag" }, { "code": "pg.pahalgam" },
+        { "code": "pg.kulgam" }, { "code": "pg.devsar" }, { "code": "pg.yaripora" }, { "code": "pg.frisal" },
+        { "code": "pg.pulwama" }, { "code": "pg.pampore" }, { "code": "pg.tral" }, { "code": "pg.khrew" }, { "code": "pg.awantipora" },
+        { "code": "pg.shopian" },
+        { "code": "pg.ganderbal" },
+        { "code": "pg.budgam" }, { "code": "pg.khansahib" }, { "code": "pg.magam" }, { "code": "pg.beerwah" },
+        { "code": "pg.chadoora" }, { "code": "pg.chariesharief" },
+        { "code": "pg.baramulla" }, { "code": "pg.sopore" }, { "code": "pg.kunzer" }, { "code": "pg.pattan" },
+        { "code": "pg.uri" }, { "code": "pg.watergam" }, { "code": "pg.gulmargtangmarg" },
+        { "code": "pg.bandipora" }, { "code": "pg.sumbal" }, { "code": "pg.hajin" },
+        { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" }
       ]
     },
-   {
-      "module": "Finance",
-      "code": "Finance",
-      "active": false,
-      "order":4,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
+
     {
       "module": "TL",
       "code": "TL",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/TL.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
-    {
-      "module": "FireNoc",
-      "code": "FireNoc",
-      "active": true,
-      "order":2,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
-    {
-      "module": "UC",
-      "code": "UC",
-      "active": false,
-      "order":2,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
-    {
-      "module": "BPAREG",
-      "code": "BPAREG",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
-      "active": true,
-      "order":2,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
-    {
-      "module": "BPAAPPLY",
-      "code": "BPAAPPLY",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
-      "active": true,
-      "order":2,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
-    {
-      "module": "PGR.WHATSAPP",
-      "code": "PGR.WHATSAPP",
-      "active": false,
-      "order":4,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        }
+        { "code": "pg.jmc" }, { "code": "pg.smc" },
+        { "code": "pg.akhnoor" }, { "code": "pg.ghomanhasan" }, { "code": "pg.bishnah" }, { "code": "pg.arnia" },
+        { "code": "pg.rspura" }, { "code": "pg.khour" }, { "code": "pg.jourian" },
+        { "code": "pg.samba" }, { "code": "pg.vijaypur" }, { "code": "pg.baribrahmana" }, { "code": "pg.ramgarh" },
+        { "code": "pg.hiranagar" }, { "code": "pg.kathua" }, { "code": "pg.basholi" }, { "code": "pg.lakhanpur" }, { "code": "pg.billawar" }, { "code": "pg.parole" },
+        { "code": "pg.rajouri" }, { "code": "pg.sunderbani" }, { "code": "pg.kalakote" }, { "code": "pg.nowshera" }, { "code": "pg.thanamandi" },
+        { "code": "pg.kishtwar" },
+        { "code": "pg.udhampur" }, { "code": "pg.chenani" }, { "code": "pg.ramnagar" },
+        { "code": "pg.katra" }, { "code": "pg.reasi" },
+        { "code": "pg.doda" }, { "code": "pg.thathri" }, { "code": "pg.bhaderwah" },
+        { "code": "pg.ramban" }, { "code": "pg.batote" }, { "code": "pg.banihal" },
+        { "code": "pg.poonch" }, { "code": "pg.surankote" },
+        { "code": "pg.anantnag" }, { "code": "pg.achabal" }, { "code": "pg.bijbehara" }, { "code": "pg.kokernag" },
+        { "code": "pg.mattan" }, { "code": "pg.qazigund" }, { "code": "pg.aishmuquam" }, { "code": "pg.seerhamdan" },
+        { "code": "pg.dooruveerinag" }, { "code": "pg.pahalgam" },
+        { "code": "pg.kulgam" }, { "code": "pg.devsar" }, { "code": "pg.yaripora" }, { "code": "pg.frisal" },
+        { "code": "pg.pulwama" }, { "code": "pg.pampore" }, { "code": "pg.tral" }, { "code": "pg.khrew" }, { "code": "pg.awantipora" },
+        { "code": "pg.shopian" },
+        { "code": "pg.ganderbal" },
+        { "code": "pg.budgam" }, { "code": "pg.khansahib" }, { "code": "pg.magam" }, { "code": "pg.beerwah" },
+        { "code": "pg.chadoora" }, { "code": "pg.chariesharief" },
+        { "code": "pg.baramulla" }, { "code": "pg.sopore" }, { "code": "pg.kunzer" }, { "code": "pg.pattan" },
+        { "code": "pg.uri" }, { "code": "pg.watergam" }, { "code": "pg.gulmargtangmarg" },
+        { "code": "pg.bandipora" }, { "code": "pg.sumbal" }, { "code": "pg.hajin" },
+        { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" }
       ]
     },
-    {
-      "module": "OBPS",
-      "code": "OBPS",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
-      "active": true,
-      "order":2,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
+
     {
       "module": "FSM",
       "code": "FSM",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/FSM.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
-    {
-      "module": "Payment",
-      "code": "Payment",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
-    {
-      "module": "Receipts",
-      "code": "Receipts",
-      "active": true,
-      "order":3,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
-    {
-      "module": "NOC",
-      "code": "NOC",
-      "active": true,
-      "order":2,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
-    {
-      "module": "DSS",
-      "code": "DSS",
-      "active": true,
-      "order":6,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
-    {
-      "module": "Engagement",
-      "code": "Engagement",
-      "active": true,
-      "order":3,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
-    {
-      "module": "MCollect",
-      "code": "MCollect",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
-    {
-      "module": "HRMS",
-      "code": "HRMS",
-      "active": true,
-      "order":2,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }
+        { "code": "pg.jmc" }, { "code": "pg.smc" },{ "code": "pg.kashmir" },
+
+        { "code": "pg.akhnoor" }, { "code": "pg.ghomanhasan" }, { "code": "pg.bishnah" }, { "code": "pg.arnia" },
+        { "code": "pg.rspura" }, { "code": "pg.khour" }, { "code": "pg.jourian" },
+        { "code": "pg.samba" }, { "code": "pg.vijaypur" }, { "code": "pg.baribrahmana" }, { "code": "pg.ramgarh" },
+        { "code": "pg.hiranagar" }, { "code": "pg.kathua" }, { "code": "pg.basholi" }, { "code": "pg.lakhanpur" }, { "code": "pg.billawar" }, { "code": "pg.parole" },
+        { "code": "pg.rajouri" }, { "code": "pg.sunderbani" }, { "code": "pg.kalakote" }, { "code": "pg.nowshera" }, { "code": "pg.thanamandi" },
+        { "code": "pg.kishtwar" },
+        { "code": "pg.udhampur" }, { "code": "pg.chenani" }, { "code": "pg.ramnagar" },
+        { "code": "pg.katra" }, { "code": "pg.reasi" },
+        { "code": "pg.doda" }, { "code": "pg.thathri" }, { "code": "pg.bhaderwah" },
+        { "code": "pg.ramban" }, { "code": "pg.batote" }, { "code": "pg.banihal" },
+        { "code": "pg.poonch" }, { "code": "pg.surankote" },
+        { "code": "pg.anantnag" }, { "code": "pg.achabal" }, { "code": "pg.bijbehara" }, { "code": "pg.kokernag" },
+        { "code": "pg.mattan" }, { "code": "pg.qazigund" }, { "code": "pg.aishmuquam" }, { "code": "pg.seerhamdan" },
+        { "code": "pg.dooruveerinag" }, { "code": "pg.pahalgam" },
+        { "code": "pg.kulgam" }, { "code": "pg.devsar" }, { "code": "pg.yaripora" }, { "code": "pg.frisal" },
+        { "code": "pg.pulwama" }, { "code": "pg.pampore" }, { "code": "pg.tral" }, { "code": "pg.khrew" }, { "code": "pg.awantipora" },
+        { "code": "pg.shopian" },
+        { "code": "pg.ganderbal" },
+        { "code": "pg.budgam" }, { "code": "pg.khansahib" }, { "code": "pg.magam" }, { "code": "pg.beerwah" },
+        { "code": "pg.chadoora" }, { "code": "pg.chariesharief" },
+        { "code": "pg.baramulla" }, { "code": "pg.sopore" }, { "code": "pg.kunzer" }, { "code": "pg.pattan" },
+        { "code": "pg.uri" }, { "code": "pg.watergam" }, { "code": "pg.gulmargtangmarg" },
+        { "code": "pg.bandipora" }, { "code": "pg.sumbal" }, { "code": "pg.hajin" },
+        { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" }
       ]
     },
-    {
-      "module": "CommonPT",
-      "code": "CommonPT",
-      "active": true,
-      "order":3,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
-    {
-      "module": "NDSS",
-      "code": "NDSS",
-      "active": true,
-      "order":5,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
+
     {
       "module": "WS",
       "code": "WS",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/WS.png",
       "active": true,
       "order": 1,
       "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }
+        { "code": "pg.jmc" }, { "code": "pg.smc" },
+        { "code": "pg.akhnoor" }, { "code": "pg.ghomanhasan" }, { "code": "pg.bishnah" }, { "code": "pg.arnia" },
+        { "code": "pg.rspura" }, { "code": "pg.khour" }, { "code": "pg.jourian" },
+        { "code": "pg.samba" }, { "code": "pg.vijaypur" }, { "code": "pg.baribrahmana" }, { "code": "pg.ramgarh" },
+        { "code": "pg.hiranagar" }, { "code": "pg.kathua" }, { "code": "pg.basholi" }, { "code": "pg.lakhanpur" }, { "code": "pg.billawar" }, { "code": "pg.parole" },
+        { "code": "pg.rajouri" }, { "code": "pg.sunderbani" }, { "code": "pg.kalakote" }, { "code": "pg.nowshera" }, { "code": "pg.thanamandi" },
+        { "code": "pg.kishtwar" },
+        { "code": "pg.udhampur" }, { "code": "pg.chenani" }, { "code": "pg.ramnagar" },
+        { "code": "pg.katra" }, { "code": "pg.reasi" },
+        { "code": "pg.doda" }, { "code": "pg.thathri" }, { "code": "pg.bhaderwah" },
+        { "code": "pg.ramban" }, { "code": "pg.batote" }, { "code": "pg.banihal" },
+        { "code": "pg.poonch" }, { "code": "pg.surankote" },
+        { "code": "pg.anantnag" }, { "code": "pg.achabal" }, { "code": "pg.bijbehara" }, { "code": "pg.kokernag" },
+        { "code": "pg.mattan" }, { "code": "pg.qazigund" }, { "code": "pg.aishmuquam" }, { "code": "pg.seerhamdan" },
+        { "code": "pg.dooruveerinag" }, { "code": "pg.pahalgam" },
+        { "code": "pg.kulgam" }, { "code": "pg.devsar" }, { "code": "pg.yaripora" }, { "code": "pg.frisal" },
+        { "code": "pg.pulwama" }, { "code": "pg.pampore" }, { "code": "pg.tral" }, { "code": "pg.khrew" }, { "code": "pg.awantipora" },
+        { "code": "pg.shopian" },
+        { "code": "pg.ganderbal" },
+        { "code": "pg.budgam" }, { "code": "pg.khansahib" }, { "code": "pg.magam" }, { "code": "pg.beerwah" },
+        { "code": "pg.chadoora" }, { "code": "pg.chariesharief" },
+        { "code": "pg.baramulla" }, { "code": "pg.sopore" }, { "code": "pg.kunzer" }, { "code": "pg.pattan" },
+        { "code": "pg.uri" }, { "code": "pg.watergam" }, { "code": "pg.gulmargtangmarg" },
+        { "code": "pg.bandipora" }, { "code": "pg.sumbal" }, { "code": "pg.hajin" },
+        { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" }
       ]
     },
+
     {
       "module": "SW",
       "code": "SW",
       "active": true,
       "order": 1,
       "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }
+        { "code": "pg.jmc" }, { "code": "pg.smc" },
+        { "code": "pg.akhnoor" }, { "code": "pg.ghomanhasan" }, { "code": "pg.bishnah" }, { "code": "pg.arnia" },
+        { "code": "pg.rspura" }, { "code": "pg.khour" }, { "code": "pg.jourian" },
+        { "code": "pg.samba" }, { "code": "pg.vijaypur" }, { "code": "pg.baribrahmana" }, { "code": "pg.ramgarh" },
+        { "code": "pg.hiranagar" }, { "code": "pg.kathua" }, { "code": "pg.basholi" }, { "code": "pg.lakhanpur" }, { "code": "pg.billawar" }, { "code": "pg.parole" },
+        { "code": "pg.rajouri" }, { "code": "pg.sunderbani" }, { "code": "pg.kalakote" }, { "code": "pg.nowshera" }, { "code": "pg.thanamandi" },
+        { "code": "pg.kishtwar" },
+        { "code": "pg.udhampur" }, { "code": "pg.chenani" }, { "code": "pg.ramnagar" },
+        { "code": "pg.katra" }, { "code": "pg.reasi" },
+        { "code": "pg.doda" }, { "code": "pg.thathri" }, { "code": "pg.bhaderwah" },
+        { "code": "pg.ramban" }, { "code": "pg.batote" }, { "code": "pg.banihal" },
+        { "code": "pg.poonch" }, { "code": "pg.surankote" },
+        { "code": "pg.anantnag" }, { "code": "pg.achabal" }, { "code": "pg.bijbehara" }, { "code": "pg.kokernag" },
+        { "code": "pg.mattan" }, { "code": "pg.qazigund" }, { "code": "pg.aishmuquam" }, { "code": "pg.seerhamdan" },
+        { "code": "pg.dooruveerinag" }, { "code": "pg.pahalgam" },
+        { "code": "pg.kulgam" }, { "code": "pg.devsar" }, { "code": "pg.yaripora" }, { "code": "pg.frisal" },
+        { "code": "pg.pulwama" }, { "code": "pg.pampore" }, { "code": "pg.tral" }, { "code": "pg.khrew" }, { "code": "pg.awantipora" },
+        { "code": "pg.shopian" },
+        { "code": "pg.ganderbal" },
+        { "code": "pg.budgam" }, { "code": "pg.khansahib" }, { "code": "pg.magam" }, { "code": "pg.beerwah" },
+        { "code": "pg.chadoora" }, { "code": "pg.chariesharief" },
+        { "code": "pg.baramulla" }, { "code": "pg.sopore" }, { "code": "pg.kunzer" }, { "code": "pg.pattan" },
+        { "code": "pg.uri" }, { "code": "pg.watergam" }, { "code": "pg.gulmargtangmarg" },
+        { "code": "pg.bandipora" }, { "code": "pg.sumbal" }, { "code": "pg.hajin" },
+        { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" }
       ]
     },
+
+    {
+      "module": "OBPS",
+      "code": "OBPS",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        { "code": "pg.jmc" }, { "code": "pg.smc" },
+        { "code": "pg.akhnoor" }, { "code": "pg.ghomanhasan" }, { "code": "pg.bishnah" }, { "code": "pg.arnia" },
+        { "code": "pg.rspura" }, { "code": "pg.khour" }, { "code": "pg.jourian" },
+        { "code": "pg.samba" }, { "code": "pg.vijaypur" }, { "code": "pg.baribrahmana" }, { "code": "pg.ramgarh" },
+        { "code": "pg.hiranagar" }, { "code": "pg.kathua" }, { "code": "pg.basholi" }, { "code": "pg.lakhanpur" }, { "code": "pg.billawar" }, { "code": "pg.parole" },
+        { "code": "pg.rajouri" }, { "code": "pg.sunderbani" }, { "code": "pg.kalakote" }, { "code": "pg.nowshera" }, { "code": "pg.thanamandi" },
+        { "code": "pg.kishtwar" },
+        { "code": "pg.udhampur" }, { "code": "pg.chenani" }, { "code": "pg.ramnagar" },
+        { "code": "pg.katra" }, { "code": "pg.reasi" },
+        { "code": "pg.doda" }, { "code": "pg.thathri" }, { "code": "pg.bhaderwah" },
+        { "code": "pg.ramban" }, { "code": "pg.batote" }, { "code": "pg.banihal" },
+        { "code": "pg.poonch" }, { "code": "pg.surankote" },
+        { "code": "pg.anantnag" }, { "code": "pg.achabal" }, { "code": "pg.bijbehara" }, { "code": "pg.kokernag" },
+        { "code": "pg.mattan" }, { "code": "pg.qazigund" }, { "code": "pg.aishmuquam" }, { "code": "pg.seerhamdan" },
+        { "code": "pg.dooruveerinag" }, { "code": "pg.pahalgam" },
+        { "code": "pg.kulgam" }, { "code": "pg.devsar" }, { "code": "pg.yaripora" }, { "code": "pg.frisal" },
+        { "code": "pg.pulwama" }, { "code": "pg.pampore" }, { "code": "pg.tral" }, { "code": "pg.khrew" }, { "code": "pg.awantipora" },
+        { "code": "pg.shopian" },
+        { "code": "pg.ganderbal" },
+        { "code": "pg.budgam" }, { "code": "pg.khansahib" }, { "code": "pg.magam" }, { "code": "pg.beerwah" },
+        { "code": "pg.chadoora" }, { "code": "pg.chariesharief" },
+        { "code": "pg.baramulla" }, { "code": "pg.sopore" }, { "code": "pg.kunzer" }, { "code": "pg.pattan" },
+        { "code": "pg.uri" }, { "code": "pg.watergam" }, { "code": "pg.gulmargtangmarg" },
+        { "code": "pg.bandipora" }, { "code": "pg.sumbal" }, { "code": "pg.hajin" },
+        { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" }
+      ]
+    },
+
+    {
+      "module": "BPAREG",
+      "code": "BPAREG",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        { "code": "pg.jmc" }, { "code": "pg.smc" },
+        { "code": "pg.akhnoor" }, { "code": "pg.ghomanhasan" }, { "code": "pg.bishnah" }, { "code": "pg.arnia" },
+        { "code": "pg.rspura" }, { "code": "pg.khour" }, { "code": "pg.jourian" },
+        { "code": "pg.samba" }, { "code": "pg.vijaypur" }, { "code": "pg.baribrahmana" }, { "code": "pg.ramgarh" },
+        { "code": "pg.hiranagar" }, { "code": "pg.kathua" }, { "code": "pg.basholi" }, { "code": "pg.lakhanpur" }, { "code": "pg.billawar" }, { "code": "pg.parole" },
+        { "code": "pg.rajouri" }, { "code": "pg.sunderbani" }, { "code": "pg.kalakote" }, { "code": "pg.nowshera" }, { "code": "pg.thanamandi" },
+        { "code": "pg.kishtwar" },
+        { "code": "pg.udhampur" }, { "code": "pg.chenani" }, { "code": "pg.ramnagar" },
+        { "code": "pg.katra" }, { "code": "pg.reasi" },
+        { "code": "pg.doda" }, { "code": "pg.thathri" }, { "code": "pg.bhaderwah" },
+        { "code": "pg.ramban" }, { "code": "pg.batote" }, { "code": "pg.banihal" },
+        { "code": "pg.poonch" }, { "code": "pg.surankote" },
+        { "code": "pg.anantnag" }, { "code": "pg.achabal" }, { "code": "pg.bijbehara" }, { "code": "pg.kokernag" },
+        { "code": "pg.mattan" }, { "code": "pg.qazigund" }, { "code": "pg.aishmuquam" }, { "code": "pg.seerhamdan" },
+        { "code": "pg.dooruveerinag" }, { "code": "pg.pahalgam" },
+        { "code": "pg.kulgam" }, { "code": "pg.devsar" }, { "code": "pg.yaripora" }, { "code": "pg.frisal" },
+        { "code": "pg.pulwama" }, { "code": "pg.pampore" }, { "code": "pg.tral" }, { "code": "pg.khrew" }, { "code": "pg.awantipora" },
+        { "code": "pg.shopian" },
+        { "code": "pg.ganderbal" },
+        { "code": "pg.budgam" }, { "code": "pg.khansahib" }, { "code": "pg.magam" }, { "code": "pg.beerwah" },
+        { "code": "pg.chadoora" }, { "code": "pg.chariesharief" },
+        { "code": "pg.baramulla" }, { "code": "pg.sopore" }, { "code": "pg.kunzer" }, { "code": "pg.pattan" },
+        { "code": "pg.uri" }, { "code": "pg.watergam" }, { "code": "pg.gulmargtangmarg" },
+        { "code": "pg.bandipora" }, { "code": "pg.sumbal" }, { "code": "pg.hajin" },
+        { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" }
+      ]
+    },
+
+    {
+      "module": "BPAAPPLY",
+      "code": "BPAAPPLY",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        { "code": "pg.jmc" }, { "code": "pg.smc" },
+        { "code": "pg.akhnoor" }, { "code": "pg.ghomanhasan" }, { "code": "pg.bishnah" }, { "code": "pg.arnia" },
+        { "code": "pg.rspura" }, { "code": "pg.khour" }, { "code": "pg.jourian" },
+        { "code": "pg.samba" }, { "code": "pg.vijaypur" }, { "code": "pg.baribrahmana" }, { "code": "pg.ramgarh" },
+        { "code": "pg.hiranagar" }, { "code": "pg.kathua" }, { "code": "pg.basholi" }, { "code": "pg.lakhanpur" }, { "code": "pg.billawar" }, { "code": "pg.parole" },
+        { "code": "pg.rajouri" }, { "code": "pg.sunderbani" }, { "code": "pg.kalakote" }, { "code": "pg.nowshera" }, { "code": "pg.thanamandi" },
+        { "code": "pg.kishtwar" },
+        { "code": "pg.udhampur" }, { "code": "pg.chenani" }, { "code": "pg.ramnagar" },
+        { "code": "pg.katra" }, { "code": "pg.reasi" },
+        { "code": "pg.doda" }, { "code": "pg.thathri" }, { "code": "pg.bhaderwah" },
+        { "code": "pg.ramban" }, { "code": "pg.batote" }, { "code": "pg.banihal" },
+        { "code": "pg.poonch" }, { "code": "pg.surankote" },
+        { "code": "pg.anantnag" }, { "code": "pg.achabal" }, { "code": "pg.bijbehara" }, { "code": "pg.kokernag" },
+        { "code": "pg.mattan" }, { "code": "pg.qazigund" }, { "code": "pg.aishmuquam" }, { "code": "pg.seerhamdan" },
+        { "code": "pg.dooruveerinag" }, { "code": "pg.pahalgam" },
+        { "code": "pg.kulgam" }, { "code": "pg.devsar" }, { "code": "pg.yaripora" }, { "code": "pg.frisal" },
+        { "code": "pg.pulwama" }, { "code": "pg.pampore" }, { "code": "pg.tral" }, { "code": "pg.khrew" }, { "code": "pg.awantipora" },
+        { "code": "pg.shopian" },
+        { "code": "pg.ganderbal" },
+        { "code": "pg.budgam" }, { "code": "pg.khansahib" }, { "code": "pg.magam" }, { "code": "pg.beerwah" },
+        { "code": "pg.chadoora" }, { "code": "pg.chariesharief" },
+        { "code": "pg.baramulla" }, { "code": "pg.sopore" }, { "code": "pg.kunzer" }, { "code": "pg.pattan" },
+        { "code": "pg.uri" }, { "code": "pg.watergam" }, { "code": "pg.gulmargtangmarg" },
+        { "code": "pg.bandipora" }, { "code": "pg.sumbal" }, { "code": "pg.hajin" },
+        { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" }
+      ]
+    },
+
+    {
+      "module": "Payment",
+      "code": "Payment",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        { "code": "pg.jmc" }, { "code": "pg.smc" },
+        { "code": "pg.akhnoor" }, { "code": "pg.ghomanhasan" }, { "code": "pg.bishnah" }, { "code": "pg.arnia" },
+        { "code": "pg.rspura" }, { "code": "pg.khour" }, { "code": "pg.jourian" },
+        { "code": "pg.samba" }, { "code": "pg.vijaypur" }, { "code": "pg.baribrahmana" }, { "code": "pg.ramgarh" },
+        { "code": "pg.hiranagar" }, { "code": "pg.kathua" }, { "code": "pg.basholi" }, { "code": "pg.lakhanpur" }, { "code": "pg.billawar" }, { "code": "pg.parole" },
+        { "code": "pg.rajouri" }, { "code": "pg.sunderbani" }, { "code": "pg.kalakote" }, { "code": "pg.nowshera" }, { "code": "pg.thanamandi" },
+        { "code": "pg.kishtwar" },
+        { "code": "pg.udhampur" }, { "code": "pg.chenani" }, { "code": "pg.ramnagar" },
+        { "code": "pg.katra" }, { "code": "pg.reasi" },
+        { "code": "pg.doda" }, { "code": "pg.thathri" }, { "code": "pg.bhaderwah" },
+        { "code": "pg.ramban" }, { "code": "pg.batote" }, { "code": "pg.banihal" },
+        { "code": "pg.poonch" }, { "code": "pg.surankote" },
+        { "code": "pg.anantnag" }, { "code": "pg.achabal" }, { "code": "pg.bijbehara" }, { "code": "pg.kokernag" },
+        { "code": "pg.mattan" }, { "code": "pg.qazigund" }, { "code": "pg.aishmuquam" }, { "code": "pg.seerhamdan" },
+        { "code": "pg.dooruveerinag" }, { "code": "pg.pahalgam" },
+        { "code": "pg.kulgam" }, { "code": "pg.devsar" }, { "code": "pg.yaripora" }, { "code": "pg.frisal" },
+        { "code": "pg.pulwama" }, { "code": "pg.pampore" }, { "code": "pg.tral" }, { "code": "pg.khrew" }, { "code": "pg.awantipora" },
+        { "code": "pg.shopian" },
+        { "code": "pg.ganderbal" },
+        { "code": "pg.budgam" }, { "code": "pg.khansahib" }, { "code": "pg.magam" }, { "code": "pg.beerwah" },
+        { "code": "pg.chadoora" }, { "code": "pg.chariesharief" },
+        { "code": "pg.baramulla" }, { "code": "pg.sopore" }, { "code": "pg.kunzer" }, { "code": "pg.pattan" },
+        { "code": "pg.uri" }, { "code": "pg.watergam" }, { "code": "pg.gulmargtangmarg" },
+        { "code": "pg.bandipora" }, { "code": "pg.sumbal" }, { "code": "pg.hajin" },
+        { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" }
+      ]
+    },
+
+    {
+      "module": "Receipts",
+      "code": "Receipts",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        { "code": "pg.jmc" }, { "code": "pg.smc" },
+        { "code": "pg.akhnoor" }, { "code": "pg.ghomanhasan" }, { "code": "pg.bishnah" }, { "code": "pg.arnia" },
+        { "code": "pg.rspura" }, { "code": "pg.khour" }, { "code": "pg.jourian" },
+        { "code": "pg.samba" }, { "code": "pg.vijaypur" }, { "code": "pg.baribrahmana" }, { "code": "pg.ramgarh" },
+        { "code": "pg.hiranagar" }, { "code": "pg.kathua" }, { "code": "pg.basholi" }, { "code": "pg.lakhanpur" }, { "code": "pg.billawar" }, { "code": "pg.parole" },
+        { "code": "pg.rajouri" }, { "code": "pg.sunderbani" }, { "code": "pg.kalakote" }, { "code": "pg.nowshera" }, { "code": "pg.thanamandi" },
+        { "code": "pg.kishtwar" },
+        { "code": "pg.udhampur" }, { "code": "pg.chenani" }, { "code": "pg.ramnagar" },
+        { "code": "pg.katra" }, { "code": "pg.reasi" },
+        { "code": "pg.doda" }, { "code": "pg.thathri" }, { "code": "pg.bhaderwah" },
+        { "code": "pg.ramban" }, { "code": "pg.batote" }, { "code": "pg.banihal" },
+        { "code": "pg.poonch" }, { "code": "pg.surankote" },
+        { "code": "pg.anantnag" }, { "code": "pg.achabal" }, { "code": "pg.bijbehara" }, { "code": "pg.kokernag" },
+        { "code": "pg.mattan" }, { "code": "pg.qazigund" }, { "code": "pg.aishmuquam" }, { "code": "pg.seerhamdan" },
+        { "code": "pg.dooruveerinag" }, { "code": "pg.pahalgam" },
+        { "code": "pg.kulgam" }, { "code": "pg.devsar" }, { "code": "pg.yaripora" }, { "code": "pg.frisal" },
+        { "code": "pg.pulwama" }, { "code": "pg.pampore" }, { "code": "pg.tral" }, { "code": "pg.khrew" }, { "code": "pg.awantipora" },
+        { "code": "pg.shopian" },
+        { "code": "pg.ganderbal" },
+        { "code": "pg.budgam" }, { "code": "pg.khansahib" }, { "code": "pg.magam" }, { "code": "pg.beerwah" },
+        { "code": "pg.chadoora" }, { "code": "pg.chariesharief" },
+        { "code": "pg.baramulla" }, { "code": "pg.sopore" }, { "code": "pg.kunzer" }, { "code": "pg.pattan" },
+        { "code": "pg.uri" }, { "code": "pg.watergam" }, { "code": "pg.gulmargtangmarg" },
+        { "code": "pg.bandipora" }, { "code": "pg.sumbal" }, { "code": "pg.hajin" },
+        { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" }
+      ]
+    },
+
+    {
+      "module": "Bills",
+      "code": "Bills",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        { "code": "pg.jmc" }, { "code": "pg.smc" },
+        { "code": "pg.akhnoor" }, { "code": "pg.ghomanhasan" }, { "code": "pg.bishnah" }, { "code": "pg.arnia" },
+        { "code": "pg.rspura" }, { "code": "pg.khour" }, { "code": "pg.jourian" },
+        { "code": "pg.samba" }, { "code": "pg.vijaypur" }, { "code": "pg.baribrahmana" }, { "code": "pg.ramgarh" },
+        { "code": "pg.hiranagar" }, { "code": "pg.kathua" }, { "code": "pg.basholi" }, { "code": "pg.lakhanpur" }, { "code": "pg.billawar" }, { "code": "pg.parole" },
+        { "code": "pg.rajouri" }, { "code": "pg.sunderbani" }, { "code": "pg.kalakote" }, { "code": "pg.nowshera" }, { "code": "pg.thanamandi" },
+        { "code": "pg.kishtwar" },
+        { "code": "pg.udhampur" }, { "code": "pg.chenani" }, { "code": "pg.ramnagar" },
+        { "code": "pg.katra" }, { "code": "pg.reasi" },
+        { "code": "pg.doda" }, { "code": "pg.thathri" }, { "code": "pg.bhaderwah" },
+        { "code": "pg.ramban" }, { "code": "pg.batote" }, { "code": "pg.banihal" },
+        { "code": "pg.poonch" }, { "code": "pg.surankote" },
+        { "code": "pg.anantnag" }, { "code": "pg.achabal" }, { "code": "pg.bijbehara" }, { "code": "pg.kokernag" },
+        { "code": "pg.mattan" }, { "code": "pg.qazigund" }, { "code": "pg.aishmuquam" }, { "code": "pg.seerhamdan" },
+        { "code": "pg.dooruveerinag" }, { "code": "pg.pahalgam" },
+        { "code": "pg.kulgam" }, { "code": "pg.devsar" }, { "code": "pg.yaripora" }, { "code": "pg.frisal" },
+        { "code": "pg.pulwama" }, { "code": "pg.pampore" }, { "code": "pg.tral" }, { "code": "pg.khrew" }, { "code": "pg.awantipora" },
+        { "code": "pg.shopian" },
+        { "code": "pg.ganderbal" },
+        { "code": "pg.budgam" }, { "code": "pg.khansahib" }, { "code": "pg.magam" }, { "code": "pg.beerwah" },
+        { "code": "pg.chadoora" }, { "code": "pg.chariesharief" },
+        { "code": "pg.baramulla" }, { "code": "pg.sopore" }, { "code": "pg.kunzer" }, { "code": "pg.pattan" },
+        { "code": "pg.uri" }, { "code": "pg.watergam" }, { "code": "pg.gulmargtangmarg" },
+        { "code": "pg.bandipora" }, { "code": "pg.sumbal" }, { "code": "pg.hajin" },
+        { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" }
+      ]
+    },
+
     {
       "module": "BillAmendment",
       "code": "BillAmendment",
       "active": true,
       "order": 1,
       "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }
+        { "code": "pg.jmc" }, { "code": "pg.smc" },
+        { "code": "pg.akhnoor" }, { "code": "pg.ghomanhasan" }, { "code": "pg.bishnah" }, { "code": "pg.arnia" },
+        { "code": "pg.rspura" }, { "code": "pg.khour" }, { "code": "pg.jourian" },
+        { "code": "pg.samba" }, { "code": "pg.vijaypur" }, { "code": "pg.baribrahmana" }, { "code": "pg.ramgarh" },
+        { "code": "pg.hiranagar" }, { "code": "pg.kathua" }, { "code": "pg.basholi" }, { "code": "pg.lakhanpur" }, { "code": "pg.billawar" }, { "code": "pg.parole" },
+        { "code": "pg.rajouri" }, { "code": "pg.sunderbani" }, { "code": "pg.kalakote" }, { "code": "pg.nowshera" }, { "code": "pg.thanamandi" },
+        { "code": "pg.kishtwar" },
+        { "code": "pg.udhampur" }, { "code": "pg.chenani" }, { "code": "pg.ramnagar" },
+        { "code": "pg.katra" }, { "code": "pg.reasi" },
+        { "code": "pg.doda" }, { "code": "pg.thathri" }, { "code": "pg.bhaderwah" },
+        { "code": "pg.ramban" }, { "code": "pg.batote" }, { "code": "pg.banihal" },
+        { "code": "pg.poonch" }, { "code": "pg.surankote" },
+        { "code": "pg.anantnag" }, { "code": "pg.achabal" }, { "code": "pg.bijbehara" }, { "code": "pg.kokernag" },
+        { "code": "pg.mattan" }, { "code": "pg.qazigund" }, { "code": "pg.aishmuquam" }, { "code": "pg.seerhamdan" },
+        { "code": "pg.dooruveerinag" }, { "code": "pg.pahalgam" },
+        { "code": "pg.kulgam" }, { "code": "pg.devsar" }, { "code": "pg.yaripora" }, { "code": "pg.frisal" },
+        { "code": "pg.pulwama" }, { "code": "pg.pampore" }, { "code": "pg.tral" }, { "code": "pg.khrew" }, { "code": "pg.awantipora" },
+        { "code": "pg.shopian" },
+        { "code": "pg.ganderbal" },
+        { "code": "pg.budgam" }, { "code": "pg.khansahib" }, { "code": "pg.magam" }, { "code": "pg.beerwah" },
+        { "code": "pg.chadoora" }, { "code": "pg.chariesharief" },
+        { "code": "pg.baramulla" }, { "code": "pg.sopore" }, { "code": "pg.kunzer" }, { "code": "pg.pattan" },
+        { "code": "pg.uri" }, { "code": "pg.watergam" }, { "code": "pg.gulmargtangmarg" },
+        { "code": "pg.bandipora" }, { "code": "pg.sumbal" }, { "code": "pg.hajin" },
+        { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" }
       ]
     },
+
     {
-      "module": "Bills",
-      "code": "Bills",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/Bill.png",
+      "module": "HRMS",
+      "code": "HRMS",
       "active": true,
-      "order": 3,
+      "order": 2,
       "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }
+        { "code": "pg.jmc" }, { "code": "pg.smc" },
+        { "code": "pg.akhnoor" }, { "code": "pg.ghomanhasan" }, { "code": "pg.bishnah" }, { "code": "pg.arnia" },
+        { "code": "pg.rspura" }, { "code": "pg.khour" }, { "code": "pg.jourian" },
+        { "code": "pg.samba" }, { "code": "pg.vijaypur" }, { "code": "pg.baribrahmana" }, { "code": "pg.ramgarh" },
+        { "code": "pg.hiranagar" }, { "code": "pg.kathua" }, { "code": "pg.basholi" }, { "code": "pg.lakhanpur" }, { "code": "pg.billawar" }, { "code": "pg.parole" },
+        { "code": "pg.rajouri" }, { "code": "pg.sunderbani" }, { "code": "pg.kalakote" }, { "code": "pg.nowshera" }, { "code": "pg.thanamandi" },
+        { "code": "pg.kishtwar" },
+        { "code": "pg.udhampur" }, { "code": "pg.chenani" }, { "code": "pg.ramnagar" },
+        { "code": "pg.katra" }, { "code": "pg.reasi" },
+        { "code": "pg.doda" }, { "code": "pg.thathri" }, { "code": "pg.bhaderwah" },
+        { "code": "pg.ramban" }, { "code": "pg.batote" }, { "code": "pg.banihal" },
+        { "code": "pg.poonch" }, { "code": "pg.surankote" },
+        { "code": "pg.anantnag" }, { "code": "pg.achabal" }, { "code": "pg.bijbehara" }, { "code": "pg.kokernag" },
+        { "code": "pg.mattan" }, { "code": "pg.qazigund" }, { "code": "pg.aishmuquam" }, { "code": "pg.seerhamdan" },
+        { "code": "pg.dooruveerinag" }, { "code": "pg.pahalgam" },
+        { "code": "pg.kulgam" }, { "code": "pg.devsar" }, { "code": "pg.yaripora" }, { "code": "pg.frisal" },
+        { "code": "pg.pulwama" }, { "code": "pg.pampore" }, { "code": "pg.tral" }, { "code": "pg.khrew" }, { "code": "pg.awantipora" },
+        { "code": "pg.shopian" },
+        { "code": "pg.ganderbal" },
+        { "code": "pg.budgam" }, { "code": "pg.khansahib" }, { "code": "pg.magam" }, { "code": "pg.beerwah" },
+        { "code": "pg.chadoora" }, { "code": "pg.chariesharief" },
+        { "code": "pg.baramulla" }, { "code": "pg.sopore" }, { "code": "pg.kunzer" }, { "code": "pg.pattan" },
+        { "code": "pg.uri" }, { "code": "pg.watergam" }, { "code": "pg.gulmargtangmarg" },
+        { "code": "pg.bandipora" }, { "code": "pg.sumbal" }, { "code": "pg.hajin" },
+        { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" }
       ]
     },
+
     {
       "module": "Birth",
       "code": "Birth",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
       "order": 1,
       "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
+        { "code": "pg.jmc" }, { "code": "pg.smc" },
+        { "code": "pg.akhnoor" }, { "code": "pg.ghomanhasan" }, { "code": "pg.bishnah" }, { "code": "pg.arnia" },
+        { "code": "pg.rspura" }, { "code": "pg.khour" }, { "code": "pg.jourian" },
+        { "code": "pg.samba" }, { "code": "pg.vijaypur" }, { "code": "pg.baribrahmana" }, { "code": "pg.ramgarh" },
+        { "code": "pg.hiranagar" }, { "code": "pg.kathua" }, { "code": "pg.basholi" }, { "code": "pg.lakhanpur" }, { "code": "pg.billawar" }, { "code": "pg.parole" },
+        { "code": "pg.rajouri" }, { "code": "pg.sunderbani" }, { "code": "pg.kalakote" }, { "code": "pg.nowshera" }, { "code": "pg.thanamandi" },
+        { "code": "pg.kishtwar" },
+        { "code": "pg.udhampur" }, { "code": "pg.chenani" }, { "code": "pg.ramnagar" },
+        { "code": "pg.katra" }, { "code": "pg.reasi" },
+        { "code": "pg.doda" }, { "code": "pg.thathri" }, { "code": "pg.bhaderwah" },
+        { "code": "pg.ramban" }, { "code": "pg.batote" }, { "code": "pg.banihal" },
+        { "code": "pg.poonch" }, { "code": "pg.surankote" },
+        { "code": "pg.anantnag" }, { "code": "pg.achabal" }, { "code": "pg.bijbehara" }, { "code": "pg.kokernag" },
+        { "code": "pg.mattan" }, { "code": "pg.qazigund" }, { "code": "pg.aishmuquam" }, { "code": "pg.seerhamdan" },
+        { "code": "pg.dooruveerinag" }, { "code": "pg.pahalgam" },
+        { "code": "pg.kulgam" }, { "code": "pg.devsar" }, { "code": "pg.yaripora" }, { "code": "pg.frisal" },
+        { "code": "pg.pulwama" }, { "code": "pg.pampore" }, { "code": "pg.tral" }, { "code": "pg.khrew" }, { "code": "pg.awantipora" },
+        { "code": "pg.shopian" },
+        { "code": "pg.ganderbal" },
+        { "code": "pg.budgam" }, { "code": "pg.khansahib" }, { "code": "pg.magam" }, { "code": "pg.beerwah" },
+        { "code": "pg.chadoora" }, { "code": "pg.chariesharief" },
+        { "code": "pg.baramulla" }, { "code": "pg.sopore" }, { "code": "pg.kunzer" }, { "code": "pg.pattan" },
+        { "code": "pg.uri" }, { "code": "pg.watergam" }, { "code": "pg.gulmargtangmarg" },
+        { "code": "pg.bandipora" }, { "code": "pg.sumbal" }, { "code": "pg.hajin" },
+        { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" }
+      ]
     },
+
     {
       "module": "Death",
       "code": "Death",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
       "order": 1,
       "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
-    {
-      "module": "PTR",
-      "code": "PTR",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
-    {
-      "module": "ASSET",
-      "code": "ASSET",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        },
-        {
-          "code": "pg.mohali"
-        },
-        {
-          "code": "pg.dharamshala"
-        },
-        {
-          "code": "pg.shimla"
-        } 
+        { "code": "pg.jmc" }, { "code": "pg.smc" },
+        { "code": "pg.akhnoor" }, { "code": "pg.ghomanhasan" }, { "code": "pg.bishnah" }, { "code": "pg.arnia" },
+        { "code": "pg.rspura" }, { "code": "pg.khour" }, { "code": "pg.jourian" },
+        { "code": "pg.samba" }, { "code": "pg.vijaypur" }, { "code": "pg.baribrahmana" }, { "code": "pg.ramgarh" },
+        { "code": "pg.hiranagar" }, { "code": "pg.kathua" }, { "code": "pg.basholi" }, { "code": "pg.lakhanpur" }, { "code": "pg.billawar" }, { "code": "pg.parole" },
+        { "code": "pg.rajouri" }, { "code": "pg.sunderbani" }, { "code": "pg.kalakote" }, { "code": "pg.nowshera" }, { "code": "pg.thanamandi" },
+        { "code": "pg.kishtwar" },
+        { "code": "pg.udhampur" }, { "code": "pg.chenani" }, { "code": "pg.ramnagar" },
+        { "code": "pg.katra" }, { "code": "pg.reasi" },
+        { "code": "pg.doda" }, { "code": "pg.thathri" }, { "code": "pg.bhaderwah" },
+        { "code": "pg.ramban" }, { "code": "pg.batote" }, { "code": "pg.banihal" },
+        { "code": "pg.poonch" }, { "code": "pg.surankote" },
+        { "code": "pg.anantnag" }, { "code": "pg.achabal" }, { "code": "pg.bijbehara" }, { "code": "pg.kokernag" },
+        { "code": "pg.mattan" }, { "code": "pg.qazigund" }, { "code": "pg.aishmuquam" }, { "code": "pg.seerhamdan" },
+        { "code": "pg.dooruveerinag" }, { "code": "pg.pahalgam" },
+        { "code": "pg.kulgam" }, { "code": "pg.devsar" }, { "code": "pg.yaripora" }, { "code": "pg.frisal" },
+        { "code": "pg.pulwama" }, { "code": "pg.pampore" }, { "code": "pg.tral" }, { "code": "pg.khrew" }, { "code": "pg.awantipora" },
+        { "code": "pg.shopian" },
+        { "code": "pg.ganderbal" },
+        { "code": "pg.budgam" }, { "code": "pg.khansahib" }, { "code": "pg.magam" }, { "code": "pg.beerwah" },
+        { "code": "pg.chadoora" }, { "code": "pg.chariesharief" },
+        { "code": "pg.baramulla" }, { "code": "pg.sopore" }, { "code": "pg.kunzer" }, { "code": "pg.pattan" },
+        { "code": "pg.uri" }, { "code": "pg.watergam" }, { "code": "pg.gulmargtangmarg" },
+        { "code": "pg.bandipora" }, { "code": "pg.sumbal" }, { "code": "pg.hajin" },
+        { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" }
       ]
     },
+
     {
-      "module": "CHB",
-      "code": "CHB",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "module": "NOC",
+      "code": "NOC",
       "active": true,
-      "order":1,
+      "order": 2,
       "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        },
-        {
-          "code": "pg.mohali"
-        },
-        {
-          "code": "pg.dharamshala"
-        },
-        {
-          "code": "pg.shimla"
-        } 
+        { "code": "pg.jmc" }, { "code": "pg.smc" },
+        { "code": "pg.akhnoor" }, { "code": "pg.ghomanhasan" }, { "code": "pg.bishnah" }, { "code": "pg.arnia" },
+        { "code": "pg.rspura" }, { "code": "pg.khour" }, { "code": "pg.jourian" },
+        { "code": "pg.samba" }, { "code": "pg.vijaypur" }, { "code": "pg.baribrahmana" }, { "code": "pg.ramgarh" },
+        { "code": "pg.hiranagar" }, { "code": "pg.kathua" }, { "code": "pg.basholi" }, { "code": "pg.lakhanpur" }, { "code": "pg.billawar" }, { "code": "pg.parole" },
+        { "code": "pg.rajouri" }, { "code": "pg.sunderbani" }, { "code": "pg.kalakote" }, { "code": "pg.nowshera" }, { "code": "pg.thanamandi" },
+        { "code": "pg.kishtwar" },
+        { "code": "pg.udhampur" }, { "code": "pg.chenani" }, { "code": "pg.ramnagar" },
+        { "code": "pg.katra" }, { "code": "pg.reasi" },
+        { "code": "pg.doda" }, { "code": "pg.thathri" }, { "code": "pg.bhaderwah" },
+        { "code": "pg.ramban" }, { "code": "pg.batote" }, { "code": "pg.banihal" },
+        { "code": "pg.poonch" }, { "code": "pg.surankote" },
+        { "code": "pg.anantnag" }, { "code": "pg.achabal" }, { "code": "pg.bijbehara" }, { "code": "pg.kokernag" },
+        { "code": "pg.mattan" }, { "code": "pg.qazigund" }, { "code": "pg.aishmuquam" }, { "code": "pg.seerhamdan" },
+        { "code": "pg.dooruveerinag" }, { "code": "pg.pahalgam" },
+        { "code": "pg.kulgam" }, { "code": "pg.devsar" }, { "code": "pg.yaripora" }, { "code": "pg.frisal" },
+        { "code": "pg.pulwama" }, { "code": "pg.pampore" }, { "code": "pg.tral" }, { "code": "pg.khrew" }, { "code": "pg.awantipora" },
+        { "code": "pg.shopian" },
+        { "code": "pg.ganderbal" },
+        { "code": "pg.budgam" }, { "code": "pg.khansahib" }, { "code": "pg.magam" }, { "code": "pg.beerwah" },
+        { "code": "pg.chadoora" }, { "code": "pg.chariesharief" },
+        { "code": "pg.baramulla" }, { "code": "pg.sopore" }, { "code": "pg.kunzer" }, { "code": "pg.pattan" },
+        { "code": "pg.uri" }, { "code": "pg.watergam" }, { "code": "pg.gulmargtangmarg" },
+        { "code": "pg.bandipora" }, { "code": "pg.sumbal" }, { "code": "pg.hajin" },
+        { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" }
       ]
     },
+
     {
-      "module": "EW",
-      "code": "EW",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "module": "DSS",
+      "code": "DSS",
       "active": true,
-      "order":1,
+      "order": 6,
       "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
-    {
-      "module": "VERIFICATIONSEARCH",
-      "code": "VERIFICATIONSEARCH",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        },
-        {
-          "code": "pg.cityd"
-        } 
+        { "code": "pg.jmc" }, { "code": "pg.smc" },
+        { "code": "pg.akhnoor" }, { "code": "pg.ghomanhasan" }, { "code": "pg.bishnah" }, { "code": "pg.arnia" },
+        { "code": "pg.rspura" }, { "code": "pg.khour" }, { "code": "pg.jourian" },
+        { "code": "pg.samba" }, { "code": "pg.vijaypur" }, { "code": "pg.baribrahmana" }, { "code": "pg.ramgarh" },
+        { "code": "pg.hiranagar" }, { "code": "pg.kathua" }, { "code": "pg.basholi" }, { "code": "pg.lakhanpur" }, { "code": "pg.billawar" }, { "code": "pg.parole" },
+        { "code": "pg.rajouri" }, { "code": "pg.sunderbani" }, { "code": "pg.kalakote" }, { "code": "pg.nowshera" }, { "code": "pg.thanamandi" },
+        { "code": "pg.kishtwar" },
+        { "code": "pg.udhampur" }, { "code": "pg.chenani" }, { "code": "pg.ramnagar" },
+        { "code": "pg.katra" }, { "code": "pg.reasi" },
+        { "code": "pg.doda" }, { "code": "pg.thathri" }, { "code": "pg.bhaderwah" },
+        { "code": "pg.ramban" }, { "code": "pg.batote" }, { "code": "pg.banihal" },
+        { "code": "pg.poonch" }, { "code": "pg.surankote" },
+        { "code": "pg.anantnag" }, { "code": "pg.achabal" }, { "code": "pg.bijbehara" }, { "code": "pg.kokernag" },
+        { "code": "pg.mattan" }, { "code": "pg.qazigund" }, { "code": "pg.aishmuquam" }, { "code": "pg.seerhamdan" },
+        { "code": "pg.dooruveerinag" }, { "code": "pg.pahalgam" },
+        { "code": "pg.kulgam" }, { "code": "pg.devsar" }, { "code": "pg.yaripora" }, { "code": "pg.frisal" },
+        { "code": "pg.pulwama" }, { "code": "pg.pampore" }, { "code": "pg.tral" }, { "code": "pg.khrew" }, { "code": "pg.awantipora" },
+        { "code": "pg.shopian" },
+        { "code": "pg.ganderbal" },
+        { "code": "pg.budgam" }, { "code": "pg.khansahib" }, { "code": "pg.magam" }, { "code": "pg.beerwah" },
+        { "code": "pg.chadoora" }, { "code": "pg.chariesharief" },
+        { "code": "pg.baramulla" }, { "code": "pg.sopore" }, { "code": "pg.kunzer" }, { "code": "pg.pattan" },
+        { "code": "pg.uri" }, { "code": "pg.watergam" }, { "code": "pg.gulmargtangmarg" },
+        { "code": "pg.bandipora" }, { "code": "pg.sumbal" }, { "code": "pg.hajin" },
+        { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" }
       ]
     },
+
     {
-      "module": "FNOC",
-      "code": "FNOC",
+      "module": "NDSS",
+      "code": "NDSS",
       "active": true,
-      "order":1,
+      "order": 5,
       "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
-    {
-      "module": "SV",
-      "code": "SV",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
-    {
-      "module": "ADS",
-      "code": "ADS",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }, 
-        {
-          "code": "pg.mohali"
-        },
-        {
-          "code": "pg.dharamshala"
-        },
-        {
-          "code": "pg.shimla"
-        }
+        { "code": "pg.jmc" }, { "code": "pg.smc" },
+        { "code": "pg.akhnoor" }, { "code": "pg.ghomanhasan" }, { "code": "pg.bishnah" }, { "code": "pg.arnia" },
+        { "code": "pg.rspura" }, { "code": "pg.khour" }, { "code": "pg.jourian" },
+        { "code": "pg.samba" }, { "code": "pg.vijaypur" }, { "code": "pg.baribrahmana" }, { "code": "pg.ramgarh" },
+        { "code": "pg.hiranagar" }, { "code": "pg.kathua" }, { "code": "pg.basholi" }, { "code": "pg.lakhanpur" }, { "code": "pg.billawar" }, { "code": "pg.parole" },
+        { "code": "pg.rajouri" }, { "code": "pg.sunderbani" }, { "code": "pg.kalakote" }, { "code": "pg.nowshera" }, { "code": "pg.thanamandi" },
+        { "code": "pg.kishtwar" },
+        { "code": "pg.udhampur" }, { "code": "pg.chenani" }, { "code": "pg.ramnagar" },
+        { "code": "pg.katra" }, { "code": "pg.reasi" },
+        { "code": "pg.doda" }, { "code": "pg.thathri" }, { "code": "pg.bhaderwah" },
+        { "code": "pg.ramban" }, { "code": "pg.batote" }, { "code": "pg.banihal" },
+        { "code": "pg.poonch" }, { "code": "pg.surankote" },
+        { "code": "pg.anantnag" }, { "code": "pg.achabal" }, { "code": "pg.bijbehara" }, { "code": "pg.kokernag" },
+        { "code": "pg.mattan" }, { "code": "pg.qazigund" }, { "code": "pg.aishmuquam" }, { "code": "pg.seerhamdan" },
+        { "code": "pg.dooruveerinag" }, { "code": "pg.pahalgam" },
+        { "code": "pg.kulgam" }, { "code": "pg.devsar" }, { "code": "pg.yaripora" }, { "code": "pg.frisal" },
+        { "code": "pg.pulwama" }, { "code": "pg.pampore" }, { "code": "pg.tral" }, { "code": "pg.khrew" }, { "code": "pg.awantipora" },
+        { "code": "pg.shopian" },
+        { "code": "pg.ganderbal" },
+        { "code": "pg.budgam" }, { "code": "pg.khansahib" }, { "code": "pg.magam" }, { "code": "pg.beerwah" },
+        { "code": "pg.chadoora" }, { "code": "pg.chariesharief" },
+        { "code": "pg.baramulla" }, { "code": "pg.sopore" }, { "code": "pg.kunzer" }, { "code": "pg.pattan" },
+        { "code": "pg.uri" }, { "code": "pg.watergam" }, { "code": "pg.gulmargtangmarg" },
+        { "code": "pg.bandipora" }, { "code": "pg.sumbal" }, { "code": "pg.hajin" },
+        { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" }
       ]
-    },
-    {
-      "module": "Workbench",
-      "code": "Workbench",
-      "active": true,
-      "order": 13,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        },
-        {
-          "code": "pg.mohali"
-        },
-        {
-          "code": "pg.dharamshala"
-        },
-        {
-          "code": "pg.shimla"
-        }
-      ]
-    } ,
-    {
-      "module": "VENDOR",
-      "code": "VENDOR",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    },
-    {
-      "module": "Tqm",
-      "code": "Tqm",
-      "active": true,
-      "order": 14,
-      "additionalComponent": "TqmAdminNotification",
-      "tenants":  [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        }      ]
-    } ,
-     {
-      "module": "WT",
-      "code": "WT",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        },
-        {
-          "code": "pg.mohali"
-        },
-        {
-          "code": "pg.dharamshala"
-        },
-        {
-          "code": "pg.shimla"
-        } 
-      ]
-    },
-    {
-      "module": "CND",
-      "code": "CND",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        },
-        {
-          "code": "pg.mohali"
-        },
-        {
-          "code": "pg.dharamshala"
-        },
-        {
-          "code": "pg.shimla"
-        } 
-      ]
-    },
-    {
-      "module": "MT",
-      "code": "MT",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        },
-        {
-          "code": "pg.mohali"
-        },
-        {
-          "code": "pg.dharamshala"
-        },
-        {
-          "code": "pg.shimla"
-        } 
-      ]
-    },
-    {
-      "module": "TP",
-      "code": "TP",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        },
-        {
-          "code": "pg.mohali"
-        },
-        {
-          "code": "pg.dharamshala"
-        },
-        {
-          "code": "pg.shimla"
-        } 
-      ]
-    },
-    {
-      "module": "PGRAI",
-      "code": "PGRAI",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "pg.jmc"
-        },
-        {
-          "code": "pg.smc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        },
-        {
-          "code": "pg.mohali"
-        },
-        {
-          "code": "pg.dharamshala"
-        },
-        {
-          "code": "pg.shimla"
-        } 
-      ]
-    }  
+    }
   ]
 }
