@@ -2,11 +2,7 @@
   "tenantId": "pg",
   "moduleName": "common-masters",
   "Department": [
-    {
-      "name": "Street Lights",
-      "code": "DEPT_1",
-      "active": false
-    },
+    
     {
       "name": "Building & Roads",
       "code": "DEPT_2",
@@ -22,16 +18,7 @@
       "code": "DEPT_4",
       "active": true
     },
-    {
-      "name": "Horticulture",
-      "code": "DEPT_5",
-      "active": true
-    },
-    {
-      "name": "Building Branch",
-      "code": "DEPT_6",
-      "active": true
-    },
+    
     {
       "name": "Citizen service desk",
       "code": "DEPT_7",
