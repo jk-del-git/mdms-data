@@ -3,21 +3,25 @@
   "moduleName": "common-masters",
   "Department": [
       {
+      "id" :"51",
       "name": "Accounts Branch",
       "code": "DEPT_25",
       "active": true
     },
     {
+      "id":"31",
       "name": "Building & Roads",
       "code": "DEPT_2",
       "active": true
     },
     {
+      "id":"32",
       "name": "Health & Sanitation",
       "code": "DEPT_3",
       "active": true
     },
     {
+      "id":"33",
       "name": "Operation & Maintenance",
       "code": "DEPT_4",
       "active": true
