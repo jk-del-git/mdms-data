@@ -1089,7 +1089,7 @@
     
         {
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-            "idname": "revenue_section.renatl_income.receipt.id"
+            "idname": "revenue_section.rental_income.receipt.id"
         },
         {
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
