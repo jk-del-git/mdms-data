@@ -2304,7 +2304,7 @@
       "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
       "name": "Special Sanitary Tax",
       "code": "REV_OTHER_SPECIAL_SANITARY_TAX",
-      "isDebit": true,
+      "isDebit": false,
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
@@ -2524,7 +2524,7 @@
       "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
       "name": "Recoveries Payable TCS",
       "code": "REV_OTHER_TCS_RECOVERY",
-      "isDebit": false,
+      "isDebit": true,
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
