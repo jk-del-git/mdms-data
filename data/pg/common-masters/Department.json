@@ -4,19 +4,19 @@
   "Department": [
     {
       "id": "51",
-      "name": "Accounts Section",
+      "name": "Accounts & Finance Department",
       "code": "DEPT_25",
       "active": true
     },
     {
       "id": "31",
-      "name": "Transport Section",
+      "name": "Transport Department",
       "code": "DEPT_2",
       "active": true
     },
     {
       "id": "32",
-      "name": "Health Section",
+      "name": "Health & Sanitation Department",
       "code": "DEPT_3",
       "active": true
     },
@@ -28,13 +28,13 @@
     },
     {
       "id": "34",
-      "name": "Electric Section",
+      "name": "Electrical Department",
       "code": "DEPT_5",
       "active": true
     },
     {
       "id": "35",
-      "name": "Enforcement Section",
+      "name": "Enforcement Department",
       "code": "DEPT_6",
       "active": true
     },
@@ -84,6 +84,54 @@
       "id": "45",
       "name": "Engg. Project Division",
       "code": "DEPT_16",
+      "active": true
+    },
+    {
+      "id": "47",
+      "name": "Building Department",
+      "code": "DEPT_18",
+      "active": true
+    },
+    {
+      "id": "48",
+      "name": "E‑Governance Department",
+      "code": "DEPT_19",
+      "active": true
+    },
+    {
+      "id": "49",
+      "name": "Establishment Department",
+      "code": "DEPT_21",
+      "active": true
+    },
+    {
+      "id": "50",
+      "name": "Legal Department",
+      "code": "DEPT_22",
+      "active": true
+    },
+    {
+      "id": "52",
+      "name": "Public Health Engineering (PHE)",
+      "code": "DEPT_23",
+      "active": true
+    },
+    {
+      "id": "53",
+      "name": "Revenue Department",
+      "code": "DEPT_27",
+      "active": true
+    },
+    {
+      "id": "54",
+      "name": "Solid Waste Management",
+      "code": "DEPT_29",
+      "active": true
+    },
+    {
+      "id": "55",
+      "name": "Town Planning",
+      "code": "DEPT_28",
       "active": true
     }
   ]
