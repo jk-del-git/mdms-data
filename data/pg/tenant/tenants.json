@@ -101,6 +101,8 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "isPopular": false,
+      "isParent": false,
+      "parent": null,
       "city": {
         "name": "Jammu",
         "localName": null,
@@ -135,6 +137,8 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "isPopular": false,
+      "isParent": false,
+      "parent": null,
       "city": {
         "name": "Kashmir",
         "localName": null,
