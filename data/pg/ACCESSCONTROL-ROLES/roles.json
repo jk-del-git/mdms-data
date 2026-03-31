@@ -657,17 +657,17 @@
       "name": "Sewerage Report Viewer",
       "description": "Sewerage Connection User that can view reports"
     },
-	{
+    {
       "code": "PT_REPORT_VIEWER",
       "name": "PT Report Viewer",
       "description": "PT User that can view tabular reports"
     },
-	{
+    {
       "code": "PGR_REPORT_VIEWER",
       "name": "PGR Report Viewer",
       "description": "PGR User that can view tabular reports"
     },
-	{
+    {
       "code": "MCOLLECT_REPORT_VIEWER",
       "name": "MCollect Report Viewer",
       "description": "MCollect User that can view tabular reports"
@@ -926,6 +926,36 @@
       "code": "PET_INTERNAL_MICROSERVICE_ROLE",
       "name": "PET Internal Microservice Role",
       "description": "Internal role for plain access"
+    },
+    {
+      "code": "EGF_BILL_CREATOR_AKHNOOR",
+      "name": "EGF Bill Creator Akhnoor",
+      "description": "Employee who creates Bills in finance for Akhnoor"
+    },
+    {
+      "code": "EGF_VOUCHER_CREATOR_AKHNOOR",
+      "name": "Finance Voucher Creator Akhnoor",
+      "description": "Employee who creates finance vouchers for Akhnoor"
+    },
+    {
+      "code": "EGF_PAYMENT_CREATOR_AKHNOOR",
+      "name": "Finance Payment Creator Akhnoor",
+      "description": "Employee who creates finance payments for Akhnoor"
+    },
+    {
+      "code": "EGF_BILL_CREATOR_GHOMANHASAN",
+      "name": "EGF Bill Creator Ghomanhasan",
+      "description": "Employee who creates Bills in finance for Ghomanhasan"
+    },
+    {
+      "code": "EGF_VOUCHER_CREATOR_GHOMANHASAN",
+      "name": "Finance Voucher Creator Ghomanhasan",
+      "description": "Employee who creates finance vouchers for Ghomanhasan"
+    },
+    {
+      "code": "EGF_PAYMENT_CREATOR_GHOMANHASAN",
+      "name": "Finance Payment Creator Ghomanhasan",
+      "description": "Employee who creates finance payments for Ghomanhasan"
     }
   ]
 }

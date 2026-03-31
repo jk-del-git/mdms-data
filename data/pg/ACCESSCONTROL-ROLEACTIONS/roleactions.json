@@ -32924,7 +32924,7 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-       {
+    {
       "rolecode": "CITIZEN",
       "actionid": 3099,
       "actioncode": "",
@@ -32935,6 +32935,92 @@
       "actionid": 3099,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    
+    {
+      "rolecode": "EGF_VOUCHER_CREATOR_AKHNOOR",
+      "actionid": 1619,
+      "actioncode": "",
+      "tenantId": "pg.akhnoor"
+    },
+    {
+      "rolecode": "EGF_VOUCHER_CREATOR_GHOMANHASAN",
+      "actionid": 1619,
+      "actioncode": "",
+      "tenantId": "pg.ghomanhasan"
+    },
+    {
+      "rolecode": "EGF_BILL_CREATOR_AKHNOOR",
+      "actionid": 1465,
+      "actioncode": "",
+      "tenantId": "pg.akhnoor"
+    },
+    {
+      "rolecode": "EGF_VOUCHER_CREATOR_AKHNOOR",
+      "actionid": 908,
+      "actioncode": "",
+      "tenantId": "pg.akhnoor"
+    },
+    {
+      "rolecode": "EGF_PAYMENT_CREATOR_AKHNOOR",
+      "actionid": 1613,
+      "actioncode": "",
+      "tenantId": "pg.akhnoor"
+    },
+    {
+      "rolecode": "EGF_BILL_CREATOR_GHOMANHASAN",
+      "actionid": 1465,
+      "actioncode": "",
+      "tenantId": "pg.ghomanhasan"
+    },
+    {
+      "rolecode": "EGF_VOUCHER_CREATOR_GHOMANHASAN",
+      "actionid": 908,
+      "actioncode": "",
+      "tenantId": "pg.ghomanhasan"
+    },
+    {
+      "rolecode": "EGF_PAYMENT_CREATOR_GHOMANHASAN",
+      "actionid": 1613,
+      "actioncode": "",
+      "tenantId": "pg.ghomanhasan"
+    },
+    
+    {
+      "rolecode": "EGF_VOUCHER_CREATOR_AKHNOOR",
+      "actionid": 1610,
+      "actioncode": "",
+      "tenantId": "pg.akhnoor"
+    },
+    {
+      "rolecode": "EGF_VOUCHER_CREATOR_GHOMANHASAN",
+      "actionid": 1610,
+      "actioncode": "",
+      "tenantId": "pg.ghomanhasan"
+    },
+        {
+      "rolecode": "EGF_VOUCHER_CREATOR_AKHNOOR",
+      "actionid": 1614,
+      "actioncode": "",
+      "tenantId": "pg.akhnoor"
+    },
+    {
+      "rolecode": "EGF_VOUCHER_CREATOR_GHOMANHASAN",
+      "actionid": 1614,
+      "actioncode": "",
+      "tenantId": "pg.ghomanhasan"
+    },
+        {
+      "rolecode": "EGF_VOUCHER_CREATOR_AKHNOOR",
+      "actionid": 1631,
+      "actioncode": "",
+      "tenantId": "pg.akhnoor"
+    },
+    {
+      "rolecode": "EGF_VOUCHER_CREATOR_GHOMANHASAN",
+      "actionid": 1631,
+      "actioncode": "",
+      "tenantId": "pg.ghomanhasan"
     }
     
   ]
