@@ -26,7 +26,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": false,
+      "isVoucherCreationEnabled": true,
       "type": "Adhoc",
       "isActive": true,
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
