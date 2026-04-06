@@ -651,6 +651,39 @@
         { "code": "pg.bandipora" }, { "code": "pg.sumbal" }, { "code": "pg.hajin" },
         { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" }
       ]
+    },
+    {
+      "module": "MCollect",
+      "code": "MCollect",
+      "active": true,
+      "order": 5,
+      "tenants": [
+        { "code": "pg.jmc" }, { "code": "pg.smc" },
+        { "code": "pg.akhnoor" }, { "code": "pg.ghomanhasan" }, { "code": "pg.bishnah" }, { "code": "pg.arnia" },
+        { "code": "pg.rspura" }, { "code": "pg.khour" }, { "code": "pg.jourian" },
+        { "code": "pg.samba" }, { "code": "pg.vijaypur" }, { "code": "pg.baribrahmana" }, { "code": "pg.ramgarh" },
+        { "code": "pg.hiranagar" }, { "code": "pg.kathua" }, { "code": "pg.basholi" }, { "code": "pg.lakhanpur" }, { "code": "pg.billawar" }, { "code": "pg.parole" },
+        { "code": "pg.rajouri" }, { "code": "pg.sunderbani" }, { "code": "pg.kalakote" }, { "code": "pg.nowshera" }, { "code": "pg.thanamandi" },
+        { "code": "pg.kishtwar" },
+        { "code": "pg.udhampur" }, { "code": "pg.chenani" }, { "code": "pg.ramnagar" },
+        { "code": "pg.katra" }, { "code": "pg.reasi" },
+        { "code": "pg.doda" }, { "code": "pg.thathri" }, { "code": "pg.bhaderwah" },
+        { "code": "pg.ramban" }, { "code": "pg.batote" }, { "code": "pg.banihal" },
+        { "code": "pg.poonch" }, { "code": "pg.surankote" },
+        { "code": "pg.anantnag" }, { "code": "pg.achabal" }, { "code": "pg.bijbehara" }, { "code": "pg.kokernag" },
+        { "code": "pg.mattan" }, { "code": "pg.qazigund" }, { "code": "pg.aishmuquam" }, { "code": "pg.seerhamdan" },
+        { "code": "pg.dooruveerinag" }, { "code": "pg.pahalgam" },
+        { "code": "pg.kulgam" }, { "code": "pg.devsar" }, { "code": "pg.yaripora" }, { "code": "pg.frisal" },
+        { "code": "pg.pulwama" }, { "code": "pg.pampore" }, { "code": "pg.tral" }, { "code": "pg.khrew" }, { "code": "pg.awantipora" },
+        { "code": "pg.shopian" },
+        { "code": "pg.ganderbal" },
+        { "code": "pg.budgam" }, { "code": "pg.khansahib" }, { "code": "pg.magam" }, { "code": "pg.beerwah" },
+        { "code": "pg.chadoora" }, { "code": "pg.chariesharief" },
+        { "code": "pg.baramulla" }, { "code": "pg.sopore" }, { "code": "pg.kunzer" }, { "code": "pg.pattan" },
+        { "code": "pg.uri" }, { "code": "pg.watergam" }, { "code": "pg.gulmargtangmarg" },
+        { "code": "pg.bandipora" }, { "code": "pg.sumbal" }, { "code": "pg.hajin" },
+        { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" }
+      ]
     }
   ]
 }
