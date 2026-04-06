@@ -1,16 +1,16 @@
 {
-    "tenantId": "pg.jmc",
+    "tenantId": "pg.sumbal",
     "moduleName": "BillingService",
     "GLCode": [
         {
             "code": "BIRTH_CERT",
             "glcode": null,
-            "cb": "pg.jmc"
+            "cb": "pg.sumbal"
         },
         {
             "code": "DEATH_CERT",
             "glcode": null,
-            "cb": "pg.jmc"
+            "cb": "pg.sumbal"
         }
     ]
     
