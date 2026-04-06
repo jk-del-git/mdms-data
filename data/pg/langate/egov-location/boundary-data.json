@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg.jmc",
+  "tenantId": "pg.langate",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.jmc",
+        "code": "pg.langate",
         "children": [
           {
             "id": "2",
@@ -89,7 +89,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.jmc",
+        "code": "pg.langate",
         "children": [
           {
             "id": "2",
