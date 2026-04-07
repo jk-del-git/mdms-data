@@ -17,7 +17,7 @@
     {
       "code": "FIRENOC",
       "voucherCreationEnabled": true,
-      "fund": "01",
+      "fund": "1000",
       "function": "101100",
       "department": "DEPT_13",
       "functionary": "",
@@ -125,7 +125,7 @@
     {
       "code": "ACCOUNT_SECTION.RECURRING_DEPOSIT",
       "voucherCreationEnabled": true,
-      "fund": "01",
+      "fund": "1000",
       "function": "000201",
       "department": "DEPT_25",
       "functionary": "",
@@ -485,7 +485,7 @@
     {
       "code": "HEALTH_SECTION.USER_CHARGES",
       "voucherCreationEnabled": true,
-      "fund": "01",
+      "fund": "1000",
       "function": "000201",
       "department": "DEPT_25",
       "functionary": "",
