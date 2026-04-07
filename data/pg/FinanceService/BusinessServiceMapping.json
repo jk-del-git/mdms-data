@@ -125,7 +125,7 @@
     {
       "code": "ACCOUNT_SECTION.RECURRING_DEPOSIT",
       "voucherCreationEnabled": true,
-      "fund": "15",
+      "fund": "1000",
       "function": "000201",
       "department": "DEPT_25",
       "functionary": "",
