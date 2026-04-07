@@ -22,6 +22,12 @@
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
       "tenantId": "pg.jmc"
+    },    {
+      "businessDetails": "ACCOUNT_SECTION.RECURRING_DEPOSIT",
+      "bankAccount": "0002",
+      "bank": "J&K Bank",
+      "bankBranch": "6305",
+      "tenantId": "pg.jmc"
     },
     {
       "businessDetails": "ADVT.Hoardings",
