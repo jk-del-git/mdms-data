@@ -2,20 +2,7 @@
   "tenantId": "pg.jmc",
   "moduleName": "FinanceModule",
   "BankAccountServiceMapping": [
-    {
-      "businessDetails": "HEALTH_SECTION.USER_CHARGES",
-      "bankAccount": "0097010100002267",
-      "bank": "J&K Bank Town Hall",
-      "bankBranch": "6305",
-      "tenantId": "pg.jmc"
-    },    {
-      "businessDetails": "ACCOUNT_SECTION.RECURRING_DEPOSIT",
-      "bankAccount": "0097010100002267",
-      "bank": "J&K Bank Town Hall",
-      "bankBranch": "6305",
-      "tenantId": "pg.jmc"
-    },
-    {
+   {
 		"businessDetails": "ACCOUNT_SECTION.INTEREST_SMART_SAVER",
 		"bankAccount": "97010100002267",
 		"bank": "J&K Bank Town Hall",
