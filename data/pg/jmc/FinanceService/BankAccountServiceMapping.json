@@ -575,6 +575,14 @@
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
+	},
+	  {
+		"businessDetails": "ADVT.Hoardings",
+		"bankAccount": "97010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
 	}
+	  
   ]
 }
