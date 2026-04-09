@@ -5,8 +5,8 @@
     {
       "code": "ADVT.Hoardings",
       "voucherCreationEnabled": true,
-      "fund": "01",
-      "function": "909100",
+      "fund": "1000",
+      "function": "0004",
       "department": "DEPT_13",
       "functionary": "",
       "scheme": "",
