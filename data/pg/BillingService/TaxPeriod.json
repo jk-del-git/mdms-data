@@ -859,6 +859,54 @@
       "financialYear": "2016-30"
     },
     {
+      "fromDate": 1606815883000,
+      "toDate": 1924948799000,
+      "periodCycle": "FORTENYEARS",
+      "service": "RT.Shops_Rent",
+      "code": "RTSHOPSRENT10YRS",
+      "financialYear": "2020-2030"
+    },
+    {
+      "fromDate": 1606815883000,
+      "toDate": 1924948799000,
+      "periodCycle": "FORTENYEARS",
+      "service": "RT.Open_Space_Rent",
+      "code": "RTOPENSPACERENT10YRS",
+      "financialYear": "2020-2030"
+    },
+    {
+      "fromDate": 1606815883000,
+      "toDate": 1924948799000,
+      "periodCycle": "FORTENYEARS",
+      "service": "RT.Garage_Rent",
+      "code": "RTGARAGERENT10YRS",
+      "financialYear": "2020-2030"
+    },
+    {
+      "fromDate": 1606815883000,
+      "toDate": 1924948799000,
+      "periodCycle": "FORTENYEARS",
+      "service": "RT.Flats_Rent",
+      "code": "RTFLATSRENT10YRS",
+      "financialYear": "2020-2030"
+    },
+    {
+      "fromDate": 1606815883000,
+      "toDate": 1924948799000,
+      "periodCycle": "FORTENYEARS",
+      "service": "OT.Other_Charges",
+      "code": "OTOTHERCHARGES10YRS",
+      "financialYear": "2020-2030"
+    },
+    {
+      "fromDate": 1606815883000,
+      "toDate": 1924948799000,
+      "periodCycle": "FORTENYEARS",
+      "service": "US.User_Charges",
+      "code": "USUSERCHARGES10YRS",
+      "financialYear": "2020-2030"
+    },
+    {
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
