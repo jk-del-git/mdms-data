@@ -97,7 +97,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc",
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -158,7 +158,7 @@
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
      {
-      "businessService": "Others.Other Charges",
+      "businessService": "Other Charges.Other Charges",
       "code": "OT.Other_Charges",
       "collectionModesNotAllowed": [
         "DD"
@@ -172,7 +172,7 @@
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
      {
-      "businessService": "User.User Charges",
+      "businessService": "User Charges.User Charges",
       "code": "US.User_Charges",
       "collectionModesNotAllowed": [
         "DD"
@@ -280,7 +280,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc",
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -2316,7 +2316,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc",
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
@@ -2330,7 +2330,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc",
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },

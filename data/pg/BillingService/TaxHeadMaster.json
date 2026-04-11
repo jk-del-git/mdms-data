@@ -3510,16 +3510,6 @@
       "isRequired": true
     },
     {
-      "category": "CHARGES",
-      "service": "RT.Shops_Rent",
-      "name": "RT.SHOPS_RENT_FIELD_FEE",
-      "code": "RT.SHOPS_RENT_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "1",
-      "isRequired": false
-    },
-    {
       "category": "TAX",
       "service": "RT.Open_Space_Rent",
       "name": "RT.OPEN_SPACE_RENT_TAX",
@@ -3528,16 +3518,6 @@
       "isActualDemand": true,
       "order": "0",
       "isRequired": true
-    },
-    {
-      "category": "CHARGES",
-      "service": "RT.Open_Space_Rent",
-      "name": "RT.OPEN_SPACE_RENT_FIELD_FEE",
-      "code": "RT.OPEN_SPACE_RENT_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "1",
-      "isRequired": false
     },
     {
       "category": "TAX",
@@ -3550,16 +3530,6 @@
       "isRequired": true
     },
     {
-      "category": "CHARGES",
-      "service": "RT.Garage_Rent",
-      "name": "RT.GARAGE_RENT_FIELD_FEE",
-      "code": "RT.GARAGE_RENT_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "1",
-      "isRequired": false
-    },
-    {
       "category": "TAX",
       "service": "RT.Flats_Rent",
       "name": "RT.FLATS_RENT_TAX",
@@ -3568,16 +3538,6 @@
       "isActualDemand": true,
       "order": "0",
       "isRequired": true
-    },
-    {
-      "category": "CHARGES",
-      "service": "RT.Flats_Rent",
-      "name": "RT.FLATS_RENT_FIELD_FEE",
-      "code": "RT.FLATS_RENT_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "1",
-      "isRequired": false
     },
     {
       "category": "TAX",
@@ -3590,16 +3550,6 @@
       "isRequired": true
     },
     {
-      "category": "CHARGES",
-      "service": "OT.Other_Charges",
-      "name": "RT.OTHER_CHARGES_FIELD_FEE",
-      "code": "RT.OTHER_CHARGES_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "1",
-      "isRequired": false
-    },
-    {
       "category": "TAX",
       "service": "US.User_Charges",
       "name": "RT.USER_CHARGES_TAX",
@@ -3608,16 +3558,6 @@
       "isActualDemand": true,
       "order": "0",
       "isRequired": true
-    },
-    {
-      "category": "CHARGES",
-      "service": "US.User_Charges",
-      "name": "RT.USER_CHARGES_FIELD_FEE",
-      "code": "RT.USER_CHARGES_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "1",
-      "isRequired": false
     },
     {
       "category": "CHARGES",
