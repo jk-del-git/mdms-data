@@ -4,581 +4,581 @@
   "BankAccountServiceMapping": [
    {
 		"businessDetails": "ACCOUNT_SECTION.INTEREST_SMART_SAVER",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "ACCOUNT_SECTION.MISC_FEE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "ACCOUNT_SECTION.RECURRING_DEPOSIT",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "BD_REGISTRATION.COPYING_FEE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "BD_REGISTRATION.REG_FEE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "BUILDING_SECTION.APPLICATION_FEES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "BUILDING_SECTION.BETTERMENT_CHARGES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "BUILDING_SECTION.COMPOUNDING_FEES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "BUILDING_SECTION.COPYING_FEE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "BUILDING_SECTION.HOUSE_LOAN_INTEREST",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "BUILDING_SECTION.LICENSING_FEES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "BUILDING_SECTION.MULBA_SECURITY_DEPOSIT",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "BUILDING_SECTION.PLAN_SANCTION_FEES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "BUILDING_SECTION.REGULARIZATION_FEES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "BUILDING_SECTION.SANITATION_CHARGES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "BUILDING_SECTION.SEPTIC_TANK_DEPOSIT",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "GENERAL_ADMIN_RTI.APPLICATION_FEES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "GENERAL_ADMIN_RTI.COPYING_FEES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "GENERAL_ADMIN_RTI.RECOVERY_CONTRACTOR",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "GENERAL_ADMIN_RTI.RECOVERY_EMPLOYEE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "GENERAL_ADMIN_RTI.RECOVERY_TEMP_ADVANCE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "HEALTH_SECTION.BWG_RAIL_HEAD_CHARGES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "HEALTH_SECTION.CD_FINE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "HEALTH_SECTION.COMPOUNDING_FEE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "HEALTH_SECTION.DAI_LICENSE_FEE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "HEALTH_SECTION.FLAG_REVENUE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "HEALTH_SECTION.FOOD_DRUG_APPLICATION_FEES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "HEALTH_SECTION.INSANITARY_FINE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "HEALTH_SECTION.LITTER_DEBRIS_CHARGES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "HEALTH_SECTION.OPEN_BURNING_FINE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "HEALTH_SECTION.POLYTHENE_FINE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "HEALTH_SECTION.SMOKING_FINE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "HEALTH_SECTION.SPITTING_FINE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "HEALTH_SECTION.USER_CHARGES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "KHILAFWARZI_SECTION.COMPOUNDING_FEE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "KHILAFWARZI_SECTION.COPYING_FEE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "KHILAFWARZI_SECTION.DEMOLITION_CHARGES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "KHILAFWARZI_SECTION.FINE_PENALTY",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "KHILAFWARZI_SECTION.NOC_FEE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "KHILAFWARZI_SECTION.RECOVERY_EMPLOYEE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "KHILAFWARZI_SECTION.RENT_GROUND_FIELD",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "KHILAFWARZI_SECTION.SANITATION_CHARGES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "KHILAFWARZI_SECTION.TRANSPORT_RECOVERY",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "OTHER_SERVICE_MISC.CONTRACT_CANCELLATION_PENALTY",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "OTHER_SERVICE_MISC.GST_AUCTION",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "OTHER_SERVICE_MISC.MISC_FEES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "OTHER_SERVICE_MISC.PENALTY_FINE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "OTHER_SERVICE_MISC.RECOVERY_CONTRACTOR",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "OTHER_SERVICE_MISC.SALE_ITEMS_SCRAP",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "OTHER_SERVICE_MISC.SALE_TENDER_PAPERS",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "PHE_JAL_SHAKTI.WATER_FILLING_CHARGES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "REV_GRANTS",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "REVENUE_SECTION.ADVERTISEMENT_TAX",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "REVENUE_SECTION.ENTRY_FEES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "REVENUE_SECTION.FINES_PENALTIES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "REVENUE_SECTION.HIRE_CHARGES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "REVENUE_SECTION.LICENSE_FEES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "REVENUE_SECTION.OTHER_TAX_REVENUE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "REVENUE_SECTION.PROPERTY_TAX",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "REVENUE_SECTION.REGISTRATION_FEES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "REVENUE_SECTION.RENTAL_INCOME",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "REVENUE_SECTION.REVENUE_SALE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "REVENUE_SECTION.USER_CHARGES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "REVENUE_SECTION.WATER_TAX",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "TRANSPORT_SECTION.COMPOUNDING_FEES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "TRANSPORT_SECTION.EXCESS_PAYMENT_RECOVERY",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "TRANSPORT_SECTION.SEWERAGE_CLEANING_CHARGES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "TRANSPORT_SECTION.TRANSPORT_RECOVERY_CHARGES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "TRANSPORT_SECTION.WATER_SEPTIC_TANK_FEES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "TRANSPORT_SECTION.WATER_TANKER_SUPPLY_CHARGES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "VETERINARY_MVO.BOVINE_MAINTENANCE_COST",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "VETERINARY_MVO.CATTLE_IMPOUNDING_FEE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "VETERINARY_MVO.COMPOUNDING_FEE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "VETERINARY_MVO.DAIRY_FARM_REGISTRATION",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "VETERINARY_MVO.DOG_REGISTRATION_FEES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "VETERINARY_MVO.MEAT_FINE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "VETERINARY_MVO.MILK_FINE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "VETERINARY_MVO.MISC_FEES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "VETERINARY_MVO.PENALTY_FINE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "VETERINARY_MVO.RECOVERY_EMPLOYEE",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "VETERINARY_MVO.SLAUGHTERHOUSE_LICENSE_FEES",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	{
 		"businessDetails": "VETERINARY_MVO.TRANSPORT_RECOVERY",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
 	},
 	  {
 		"businessDetails": "ADVT.Hoardings",
-		"bankAccount": "97010100002267",
+		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
