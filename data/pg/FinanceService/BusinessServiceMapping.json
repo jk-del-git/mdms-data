@@ -486,7 +486,7 @@
       "code": "HEALTH_SECTION.USER_CHARGES",
       "voucherCreationEnabled": true,
       "fund": "1000",
-      "function": "000201",
+      "function": "0004",
       "department": "DEPT_25",
       "functionary": "",
       "scheme": "",
