@@ -1086,7 +1086,7 @@
       "code": "REVENUE_SECTION.ADVERTISEMENT_TAX",
       "voucherCreationEnabled": true,
       "fund": "1000",
-      "function": "9099",
+      "function": "3099",
       "department": "DEPT_25",
       "functionary": "",
       "scheme": "",
