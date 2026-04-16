@@ -3542,8 +3542,8 @@
     {
       "category": "TAX",
       "service": "OT.Other_Charges",
-      "name": "RT.OTHER_CHARGES_TAX",
-      "code": "RT.OTHER_CHARGES_TAX",
+      "name": "OT.OTHER_CHARGES_TAX",
+      "code": "OT.OTHER_CHARGES_TAX",
       "isDebit": false,
       "isActualDemand": true,
       "order": "0",
@@ -3552,8 +3552,8 @@
     {
       "category": "TAX",
       "service": "US.User_Charges",
-      "name": "RT.USER_CHARGES_TAX",
-      "code": "RT.USER_CHARGES_TAX",
+      "name": "OT.USER_CHARGES_TAX",
+      "code": "OT.USER_CHARGES_TAX",
       "isDebit": false,
       "isActualDemand": true,
       "order": "0",
