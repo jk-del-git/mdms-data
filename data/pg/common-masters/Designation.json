@@ -171,6 +171,12 @@
       "active": true
     },
     {
+      "name": "Assistant Accounts Officer",
+      "description": "Assistant Accounts Officer",
+      "code": "AAO",
+      "active": true
+    },
+    {
       "name": "Commissioner",
       "description": "Commissioner",
       "code": "COMM",
