@@ -182,6 +182,12 @@
       "code": "JA",
       "active": true
     },
+     {
+      "name": "SENIOR ASSISTANT",
+      "description": "SENIOR ASSISTANT",
+      "code": "SA",
+      "active": true
+    },
     {
       "name": "Commissioner",
       "description": "Commissioner",
