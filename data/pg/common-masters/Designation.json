@@ -177,6 +177,12 @@
       "active": true
     },
     {
+      "name": "Junior Assistant",
+      "description": "Junior Assistant",
+      "code": "JA",
+      "active": true
+    },
+    {
       "name": "Commissioner",
       "description": "Commissioner",
       "code": "COMM",

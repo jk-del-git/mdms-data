@@ -1595,9 +1595,7 @@
     {
       "businessService": "Revenue Section.Rental income",
       "code": "REVENUE_SECTION.RENTAL_INCOME",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1607,9 +1605,7 @@
     {
       "businessService": "Revenue Section.License fees",
       "code": "REVENUE_SECTION.LICENSE_FEES",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1619,9 +1615,7 @@
     {
       "businessService": "Revenue Section.Property tax",
       "code": "REVENUE_SECTION.PROPERTY_TAX",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1631,9 +1625,7 @@
     {
       "businessService": "Revenue Section.Water tax",
       "code": "REVENUE_SECTION.WATER_TAX",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1643,9 +1635,7 @@
     {
       "businessService": "Revenue Section.Revenue from Sale",
       "code": "REVENUE_SECTION.REVENUE_SALE",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1655,9 +1645,7 @@
     {
       "businessService": "Revenue Section.Entry Fees",
       "code": "REVENUE_SECTION.ENTRY_FEES",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1667,9 +1655,7 @@
     {
       "businessService": "Revenue Section.Advertisement tax",
       "code": "REVENUE_SECTION.ADVERTISEMENT_TAX",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1679,9 +1665,7 @@
     {
       "businessService": "Revenue Section.Fees and Registration charges",
       "code": "REVENUE_SECTION.REGISTRATION_FEES",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1691,9 +1675,7 @@
     {
       "businessService": "Revenue Section.Hire Charges",
       "code": "REVENUE_SECTION.HIRE_CHARGES",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1703,9 +1685,7 @@
     {
       "businessService": "Revenue Section.Other taxes and revenues",
       "code": "REVENUE_SECTION.OTHER_TAX_REVENUE",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1715,9 +1695,7 @@
     {
       "businessService": "Revenue Section.User Charges",
       "code": "REVENUE_SECTION.USER_CHARGES",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1727,9 +1705,7 @@
     {
       "businessService": "Revenue Section.Fines and Penalities",
       "code": "REVENUE_SECTION.FINES_PENALTIES",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
