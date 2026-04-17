@@ -32,6 +32,30 @@
         },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "rt.shops_rent.receipt.id"
+        },
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "rt.open_space_rent.receipt.id"
+        },
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "rt.garage_rent.receipt.id"
+        },
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "rt.flats_rent.receipt.id"
+        },
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "ot.other_charges.receipt.id"
+        },
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "us.user_charges.receipt.id"
+        },
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "tx.electricity_chungi.receipt.id"
         },
         {
