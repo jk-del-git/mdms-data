@@ -1036,7 +1036,7 @@
       "type": "Finance"
     },
     {
-      "businessService": "Birth & Death Registration Section.Registration Fee Birth & Death Section",
+      "businessService": "Birth & Death Registration Section.Registration Fee Birth and Death Section",
       "code": "BD_REGISTRATION.REG_FEE",
       "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
@@ -1046,7 +1046,7 @@
       "type": "Finance"
     },
     {
-      "businessService": "Birth & Death Registration Section.Copying Fee Birth & Death Section",
+      "businessService": "Birth & Death Registration Section.Copying Fee Birth and Death Section",
       "code": "BD_REGISTRATION.COPYING_FEE",
       "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
