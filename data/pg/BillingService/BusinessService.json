@@ -1046,16 +1046,6 @@
       "type": "Finance"
     },
     {
-      "businessService": "Birth & Death Registration Section.Birth & Death Registration Fees (Vital Statistics)",
-      "code": "BD_REGISTRATION.VITAL_STATS",
-      "collectionModesNotAllowed": [],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": false,
-      "type": "Finance"
-    },
-    {
       "businessService": "Birth & Death Registration Section.Copying Fee Birth & Death Section",
       "code": "BD_REGISTRATION.COPYING_FEE",
       "collectionModesNotAllowed": [],
