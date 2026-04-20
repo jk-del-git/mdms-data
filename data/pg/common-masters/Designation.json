@@ -199,6 +199,12 @@
       "description": "FSM Executive",
       "code": "DESIG_200",
       "active": true
+    },
+    {
+      "name": "Cashier",
+      "description": "Cashier",
+      "code": "CC",
+      "active": true
     }
   ]
 }
