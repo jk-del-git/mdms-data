@@ -205,6 +205,12 @@
       "description": "Cashier",
       "code": "CC",
       "active": true
+    },
+    {
+      "name": "HEAD ASSISTANT",
+      "description": "HEAD ASSISTANT",
+      "code": "HA",
+      "active": true
     }
   ]
 }
