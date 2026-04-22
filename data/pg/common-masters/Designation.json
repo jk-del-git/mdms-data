@@ -177,6 +177,18 @@
       "active": true
     },
     {
+      "name": "Junior Assistant",
+      "description": "Junior Assistant",
+      "code": "JA",
+      "active": true
+    },
+     {
+      "name": "SENIOR ASSISTANT",
+      "description": "SENIOR ASSISTANT",
+      "code": "SA",
+      "active": true
+    },
+    {
       "name": "Commissioner",
       "description": "Commissioner",
       "code": "COMM",
@@ -186,6 +198,18 @@
       "name": "FSM Executive",
       "description": "FSM Executive",
       "code": "DESIG_200",
+      "active": true
+    },
+    {
+      "name": "Cashier",
+      "description": "Cashier",
+      "code": "CC",
+      "active": true
+    },
+    {
+      "name": "HEAD ASSISTANT",
+      "description": "HEAD ASSISTANT",
+      "code": "HA",
       "active": true
     }
   ]

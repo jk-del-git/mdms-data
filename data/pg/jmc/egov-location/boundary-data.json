@@ -25,7 +25,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL1",
+            "code": "Ward1",
             "core": "true",
             "pincode": [143001,143002]
           },
@@ -37,7 +37,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL2",
+            "code": "Ward2",
             "core": "true"
           },
           {
@@ -48,7 +48,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL3",
+            "code": "Ward3",
             "core": "false"
           },
           {
@@ -59,7 +59,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL4",
+            "code": "Ward4",
             "core": "false"
           },
           {
@@ -70,7 +70,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL5",
+            "code": "Ward5",
             "core": "false"
           }
         ]
@@ -99,7 +99,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL1",
+            "code": "Ward1",
             "core": "true"
           },
           {
@@ -110,7 +110,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL2",
+            "code": "Ward2",
             "core": "true"
           },
           {
@@ -121,7 +121,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL3",
+            "code": "Ward3",
             "core": "false"
           },
           {
@@ -132,7 +132,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL4",
+            "code": "Ward4",
             "core": "false"
           },
           {
@@ -143,7 +143,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL5",
+            "code": "Ward5",
             "core": "false"
           }
         ]
