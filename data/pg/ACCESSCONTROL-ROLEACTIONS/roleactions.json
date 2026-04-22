@@ -33728,6 +33728,43 @@
       "actionid": 3103,
       "actioncode": "",
       "tenantId": "pg"
+    },
+     {
+      "rolecode": "UC_EMP",
+      "actionid": 3100,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     
+     {
+      "rolecode": "UC_EMP",
+      "actionid": 3101,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "UC_EMP",
+      "actionid": 3102,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "UC_EMP",
+      "actionid": 3103,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "UC_EMP",
+      "actionid": 3105,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "EGF_SUPERUSER",
+      "actionid": 3105,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
