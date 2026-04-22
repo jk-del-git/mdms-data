@@ -21759,7 +21759,7 @@
           "parentModule": "",
           "enabled": true,
           "serviceCode": "Miscellaneous Collections",
-          "navigationURL": "/upyog-ui/employee/mcollect/DetailedCollectionSearch",
+          "navigationURL": "/upyog-ui/employee/mcollect/detailed-collection-search",
           "code": "null",
           "leftIcon": "",
           "path": "Miscellaneous Collections.Detailed Collection Search"
@@ -21773,7 +21773,7 @@
           "parentModule": "",
           "enabled": true,
           "serviceCode": "Miscellaneous Collections",
-          "navigationURL": "/upyog-ui/employee/mcollect/PaymentStatusSearch",
+          "navigationURL": "/upyog-ui/employee/mcollect/payment-status-search",
           "code": "null",
           "leftIcon": "",
           "path": "Miscellaneous Collections.Payment Status Search"
