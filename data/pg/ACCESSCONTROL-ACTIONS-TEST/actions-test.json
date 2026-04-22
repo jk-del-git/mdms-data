@@ -21731,7 +21731,7 @@
           "parentModule": "MCOLLECT",
           "enabled": true,
           "serviceCode": "Miscellaneous Collections",
-          "navigationURL": "/upyog-ui/employee/mcollect/GenerateDemand",
+          "navigationURL": "/upyog-ui/employee/mcollect/new-application",
           "code": "null",
           "leftIcon": "",
           "path": "Miscellaneous Collections.Generate Demand"
@@ -21745,7 +21745,7 @@
           "parentModule": "",
           "enabled": true,
           "serviceCode": "Miscellaneous Collections",
-          "navigationURL": "/upyog-ui/employee/mcollect/DetailedDemandSearch",
+          "navigationURL": "/upyog-ui/employee/mcollect/inbox",
           "code": "null",
           "leftIcon": "",
           "path": "Miscellaneous Collections.Detailed Demand Search"
