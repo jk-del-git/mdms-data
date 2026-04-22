@@ -10976,6 +10976,7 @@
       "actioncode": "",
       "tenantId": "pg"
     },
+    
     {
       "rolecode": "EGF_MASTER_ADMIN",
       "actionid": 1725,
@@ -10990,6 +10991,24 @@
     },
     {
       "rolecode": "EGF_MASTER_ADMIN",
+      "actionid": 1727,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_PURCHASEORDER_MASTER_HANDLER",
+      "actionid": 1725,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_PURCHASEORDER_MASTER_HANDLER",
+      "actionid": 1726,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_PURCHASEORDER_MASTER_HANDLER",
       "actionid": 1727,
       "actioncode": "",
       "tenantId": "pg"
@@ -11056,6 +11075,24 @@
     },
     {
       "rolecode": "SUPERUSER",
+      "actionid": 1733,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "EGF_WORKORDER_MASTER_HANDLER",
+      "actionid": 1731,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_WORKORDER_MASTER_HANDLER",
+      "actionid": 1732,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_WORKORDER_MASTER_HANDLER",
       "actionid": 1733,
       "actioncode": "",
       "tenantId": "pg"

@@ -151,6 +151,12 @@
       "name": "Public Health Engineering (PHE) South",
       "code": "DEPT_26",
       "active": true
+    },
+    {
+      "id": "60",
+      "name": "Project Div",
+      "code": "DEPT_29",
+      "active": true
     }
   ]
 }

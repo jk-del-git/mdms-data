@@ -931,6 +931,16 @@
       "code": "EGF_SUPERUSER",
       "name": "EGF Super User",
       "description": "User with full access to all finance operations."
+    },
+    {
+      "code": "EGF_PURCHASEORDER_MASTER_HANDLER",
+      "name": "EGF PURCHASEORDER MASTER HANDLER",
+      "description": "Role for Purchase order master"
+    },
+	 {
+      "code": "EGF_WORKORDER_MASTER_HANDLER",
+      "name": "EGF WORKORDER MASTER HANDLER",
+      "description": "Role for Work order Master"
     }
     
   ]
