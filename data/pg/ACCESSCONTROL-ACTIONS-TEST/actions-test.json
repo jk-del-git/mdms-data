@@ -9635,7 +9635,7 @@
       "displayName": "Universal Collection(MCollect)",
       "orderNumber": 3,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "UC",
       "code": "null",
       "navigationURL": "/digit-ui/employee/mcollect/inbox",
@@ -21693,7 +21693,7 @@
       "path": ""
     },
     
-  {
+    {
           "id": 3099,
           "name": "Chatbot",
           "url": "/chat",
@@ -21705,6 +21705,62 @@
           "code": "null",
           "path": "",
           "navigationURL": ""
+      },
+      {
+          "id": 3100,
+          "name": "generatedemand",
+          "url": "url",
+          "displayName": "Generate Demand",
+          "orderNumber": 0,
+          "parentModule": "",
+          "enabled": true,
+          "serviceCode": "Miscellaneous Collections",
+          "navigationURL": "/upyog-ui/employee/mcollect/GenerateDemand",
+          "code": "null",
+          "leftIcon": "",
+          "path": "Miscellaneous Collections.Generate Demand"
+      },
+      {
+          "id": 3101,
+          "name": "detaileddemandsearch",
+          "url": "url",
+          "displayName": "Detailed Demand Search",
+          "orderNumber": 0,
+          "parentModule": "",
+          "enabled": true,
+          "serviceCode": "Miscellaneous Collections",
+          "navigationURL": "/upyog-ui/employee/mcollect/DetailedDemandSearch",
+          "code": "null",
+          "leftIcon": "",
+          "path": "Miscellaneous Collections.Detailed Demand Search"
+      },
+      {
+          "id": 3102,
+          "name": "detailedcollectionsearch",
+          "url": "url",
+          "displayName": "Detailed Collection Search",
+          "orderNumber": 0,
+          "parentModule": "",
+          "enabled": true,
+          "serviceCode": "Miscellaneous Collections",
+          "navigationURL": "/upyog-ui/employee/mcollect/DetailedCollectionSearch",
+          "code": "null",
+          "leftIcon": "",
+          "path": "Miscellaneous Collections.Detailed Collection Search"
+      },
+      {
+          "id": 3103,
+          "name": "paymentstatussearch",
+          "url": "url",
+          "displayName": "Payment Status Search",
+          "orderNumber": 0,
+          "parentModule": "",
+          "enabled": true,
+          "serviceCode": "Miscellaneous Collections",
+          "navigationURL": "/upyog-ui/employee/mcollect/PaymentStatusSearch",
+          "code": "null",
+          "leftIcon": "",
+          "path": "Miscellaneous Collections.Payment Status Search"
       }
   ]
 }
