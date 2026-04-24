@@ -21777,6 +21777,17 @@
           "code": "null",
           "leftIcon": "",
           "path": "Miscellaneous Collections.Payment Status Search"
-      }
+      },
+   {
+      "id": 3106,
+      "name": "Collection Saerch Reciept",
+      "url": "/collection-services/payments/_plainsearch",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
