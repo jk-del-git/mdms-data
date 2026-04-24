@@ -113,7 +113,8 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get",
+      "demandAmount": 15000
     },
      {
       "businessService": "Rents.Open Space Rent",
@@ -127,7 +128,8 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get",
+      "demandAmount": 13000
     },
      {
       "businessService": "Rents.Garage Rent",
@@ -141,7 +143,8 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get",
+      "demandAmount": 12500
     },
      {
       "businessService": "Rents.Flats Rent",
@@ -155,7 +158,8 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get",
+      "demandAmount": 10000
     },
      {
       "businessService": "Other Charges.Other Charges",
@@ -169,7 +173,8 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get",
+      "demandAmount": 3200
     },
      {
       "businessService": "User Charges.User Charges",
@@ -183,7 +188,8 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get",
+      "demandAmount": 1500
     },
     {
       "businessService": "Rents.Jamin Theka",

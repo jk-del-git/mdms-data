@@ -3680,16 +3680,6 @@
       "isRequired": true
     },
     {
-      "category": "CHARGES",
-      "service": "ADVT.Hoardings",
-      "name": "ADVT.HOARDINGS_FIELD_FEE",
-      "code": "ADVT.HOARDINGS_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "1",
-      "isRequired": false
-    },
-    {
       "category": "TAX",
       "service": "ADVT.Unipolls",
       "name": "ADVT.UNIPOLLS_TAX",
