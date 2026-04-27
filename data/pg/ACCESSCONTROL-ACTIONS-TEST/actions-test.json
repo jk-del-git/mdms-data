@@ -5883,7 +5883,7 @@
       "displayName": "Universal Collection",
       "orderNumber": 4,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "UC",
       "code": "null",
       "navigationURL": "/upyog-ui/employee/mcollect/inbox",
