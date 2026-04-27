@@ -9329,7 +9329,7 @@
     {
       "id": 2093,
       "name": "rainmaker-uc-collection",
-      "url": "card",
+      "url": "url",
       "displayName": "m-Collect",
       "orderNumber": 4,
       "parentModule": "",
@@ -21709,7 +21709,7 @@
     {
       "id": 3105,
       "name": "rainmaker-mcollect",
-      "url": "card",
+      "url": "url",
       "displayName": "Miscellaneous Collections",
       "orderNumber": 2,
       "parentModule": "",
