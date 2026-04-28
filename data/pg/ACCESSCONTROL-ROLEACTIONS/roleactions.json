@@ -33765,6 +33765,18 @@
       "actionid": 3105,
       "actioncode": "",
       "tenantId": "pg"
+    },
+     {
+      "rolecode": "EGF_SUPERUSER",
+      "actionid": 3106,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "UC_EMP",
+      "actionid": 3106,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
