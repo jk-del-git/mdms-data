@@ -10976,7 +10976,6 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-    
     {
       "rolecode": "EGF_MASTER_ADMIN",
       "actionid": 1725,
@@ -11079,7 +11078,7 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-     {
+    {
       "rolecode": "EGF_WORKORDER_MASTER_HANDLER",
       "actionid": 1731,
       "actioncode": "",
@@ -33723,100 +33722,117 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-     {
+    {
       "rolecode": "EGF_SUPERUSER",
       "actionid": 3103,
       "actioncode": "",
       "tenantId": "pg"
     },
-     {
+    {
       "rolecode": "UC_EMP",
       "actionid": 3100,
       "actioncode": "",
       "tenantId": "pg"
     },
-     
-     {
+    {
       "rolecode": "UC_EMP",
       "actionid": 3101,
       "actioncode": "",
       "tenantId": "pg"
     },
-     {
+    {
       "rolecode": "UC_EMP",
       "actionid": 3102,
       "actioncode": "",
       "tenantId": "pg"
     },
-     {
+    {
       "rolecode": "UC_EMP",
       "actionid": 3103,
       "actioncode": "",
       "tenantId": "pg"
     },
-     {
+    {
       "rolecode": "UC_EMP",
       "actionid": 3105,
       "actioncode": "",
       "tenantId": "pg"
     },
-     {
+    {
       "rolecode": "EGF_SUPERUSER",
       "actionid": 3105,
       "actioncode": "",
       "tenantId": "pg"
     },
-     {
+    {
       "rolecode": "EGF_SUPERUSER",
       "actionid": 3106,
       "actioncode": "",
       "tenantId": "pg"
     },
-     {
+    {
       "rolecode": "UC_EMP",
       "actionid": 3106,
       "actioncode": "",
       "tenantId": "pg"
     },
-     {
+    {
       "rolecode": "UC_EMP",
       "actionid": 3106,
       "actioncode": "",
       "tenantId": "pg"
     },
-     {
+    {
       "rolecode": "UC_EMP",
       "actionid": 3107,
       "actioncode": "",
       "tenantId": "pg"
     },
-     {
+    {
       "rolecode": "UC_EMP",
       "actionid": 3108,
       "actioncode": "",
       "tenantId": "pg"
     },
-     {
+    {
       "rolecode": "UC_EMP",
       "actionid": 3109,
       "actioncode": "",
       "tenantId": "pg"
     },
-     {
+    {
       "rolecode": "UC_EMP",
       "actionid": 3110,
       "actioncode": "",
       "tenantId": "pg"
     },
-     {
+    {
       "rolecode": "UC_EMP",
       "actionid": 3111,
       "actioncode": "",
       "tenantId": "pg"
     },
-     {
+    {
       "rolecode": "UC_EMP",
       "actionid": 3104,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_SUPERUSER",
+      "actionid": 3112,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3112,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "COLL_RECEIPT_CREATOR",
+      "actionid": 3112,
       "actioncode": "",
       "tenantId": "pg"
     }
