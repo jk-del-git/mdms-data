@@ -33813,6 +33813,12 @@
       "actionid": 3111,
       "actioncode": "",
       "tenantId": "pg"
+    },
+     {
+      "rolecode": "UC_EMP",
+      "actionid": 3104,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
