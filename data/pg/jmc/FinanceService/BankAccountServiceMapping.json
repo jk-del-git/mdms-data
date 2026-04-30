@@ -582,6 +582,48 @@
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
 		"tenantId": "pg.jmc"
+	},
+	  {
+		"businessDetails": "RT.Shops_Rent",
+		"bankAccount": "0097010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
+	},
+	  {
+		"businessDetails": "RT.Open_Space_Rent",
+		"bankAccount": "0097010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
+	},
+	  {
+		"businessDetails": "RT.Garage_Rent",
+		"bankAccount": "0097010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
+	},
+	  {
+		"businessDetails": "RT.Flats_Rent",
+		"bankAccount": "0097010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
+	},
+	  {
+		"businessDetails": "OT.Other_Charges",
+		"bankAccount": "0097010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
+	},
+	  {
+		"businessDetails": "US.User_Charges",
+		"bankAccount": "0097010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
 	}
 	  
   ]
